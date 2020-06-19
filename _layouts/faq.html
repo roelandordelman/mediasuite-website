@@ -1,0 +1,20 @@
+{% include header.html %}
+<main role="main" class="flex-shrink-0 mt-5 mb-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="list-group">
+        {% assign faqs = site.faq | sort: 'position' %}
+        {% for faq in faqs %}
+          <a href="{{ faq.url | relative_url }}" class="list-group-item list-group-item-action">{{ faq.title }}</a>
+        {% endfor %}
+        </div>
+      </div>
+      <div class="col-md-8">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</main>
+{% include footer.html %}

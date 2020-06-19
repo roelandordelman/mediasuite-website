@@ -1,0 +1,50 @@
+---
+title: CLARIAH Media Suite
+timezone: Europe/Amsterdam
+collections_dir: documentation
+collections:
+  faq:
+    title: FAQ
+    output: true
+    permalink: /documentation/:collection/:name
+  # posts:
+  #   title: Nieuws
+  #   output: true
+  # uploads:
+  #   title: Uploads
+  #   output: true
+  # winners:
+  #   title: Winnaars
+  #   output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: faq
+  values:
+    layout: faq
+#email: bloemendalprijs@beeldengeluid.nl
+#description: De Philip Bloemendal Prijs stimuleert jong journalistiek presentatietalent
+  # in de media. Genomineerden ontvangen een oorkonde en de winnaar ontvangt tevens
+  # een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om
+  # zich binnen het vakgebied verder te bekwamen.
+#baseurl: 
+#url: https://www.bloemendal.info
+twitter_username: mediasuite_nl
+markdown: kramdown
+plugins:
+- jekyll-feed
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- script
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
