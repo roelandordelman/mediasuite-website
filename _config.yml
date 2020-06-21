@@ -1,12 +1,12 @@
 ---
 title: CLARIAH Media Suite
 timezone: Europe/Amsterdam
-collections_dir: documentation
+collections_dir: collections
 collections:
   faq:
     title: FAQ
-    output: true
-    permalink: /documentation/:collection/:name
+  #  output: true
+  #  permalink: /documentation/:collection/:name
   # posts:
   #   title: Nieuws
   #   output: true
