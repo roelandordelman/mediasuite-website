@@ -1,23 +1,4 @@
 ---
 ---
 
-// Base CSS
-
-$font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-
-$headings-font-family: "Maven Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-$headings-font-weight: 500;
-
-$primary: #f26c50; /* Orange */
-
-@import "bootstrap/scss/bootstrap.scss";
-
-// Custom CSS
-
-body {
-	padding-top: 100px;
-}
-
-header, footer {
-	font-family: $headings-font-family
-}
+@import "custom.scss";
