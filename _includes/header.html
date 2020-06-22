@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>CLARIAH Media Suite</title>
+  <title>CLARIAH Media Suite - {{ page.title }}</title>
 
   <!-- Google fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500;600&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
@@ -26,16 +26,16 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <a class="nav-link text-light" href="#">Data</a>
+          <li class="nav-item{% if page.menu == 'data' %} active{% endif %}">
+            <a class="nav-link text-light" href="{{ '/data' | relative_url }}">Data</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-light" href="#">Tools</a>
+            <a class="nav-link text-light{% if page.menu == 'tools' %} active{% endif %}" href="{{ '/tools' | relative_url }}">Tools</a>
           </li>
         </ul>
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="{{ '/about' | relative_url }}">About</a>
+            <a class="nav-link{% if page.menu == 'about' %} active{% endif %}" href="{{ '/about' | relative_url }}">About</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ '/documentation/faq' | relative_url }}">Learn</a>

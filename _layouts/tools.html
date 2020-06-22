@@ -1,0 +1,52 @@
+{% include header.html %}
+<main role="main" class="flex-shrink-0 mt-5 mb-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-2 offset-md-1">
+				<img src="{{ '/assets/img/bigicon-tools.833a4532.png' | relative_url }}" class="img-fluid mb-5" alt="Media Suite Data">
+			</div>
+			<div class="col-md-8 offset-md-1 pt-2">
+				{{ content }}
+				<p class="text-center pt-2">
+					<a href="{{ '/documentation/howtos' | relative_url }}" class="btn btn-light text-uppercase">View documentation</a>
+				</p>
+			</div>
+		</div>
+		<div class="card-deck">
+			<div class="card text-center">
+				<img src="{{ '/assets/img/icon-inspect.png' | relative_url }}"  class="card-img-top" alt="Collection inspector">
+				<div class="card-body">
+					<h5 class="card-title">Inspect</h5>
+					<p class="card-text">Supports data criticism by providing various views on collection metadata</p>
+					<p>
+						<a href="#" class="card-link btn btn-link text-uppercase">Details</a>
+						<a href="#" class="card-link btn btn-light text-uppercase">Open</a>
+					</p>
+				</div>
+			</div>
+			<div class="card text-center">
+				<img src="{{ '/assets/img/icon-search.png' | relative_url }}" class="card-img-top" alt="Basic faceted search">
+				<div class="card-body">
+					<h5 class="card-title">Search</h5>
+					<p class="card-text">Supports distant reading, corpus selection and close reading.</p>
+					<p>
+						<a href="#" class="card-link btn btn-link text-uppercase">Details</a>
+						<a href="#" class="card-link btn btn-light text-uppercase">Open</a>
+					</p>
+				</div>
+			</div>
+			<div class="card text-center">
+				<img src="{{ '/assets/img/icon-explore.png' | relative_url }}" class="card-img-top" alt="Exploratory browser">
+				<div class="card-body">
+					<h5 class="card-title">Explore</h5>
+					<p class="card-text">Supports open-ended browsing to facilitate serendipitous discovery.</p>
+					<p>
+						<a href="#" class="card-link btn btn-link text-uppercase">Details</a>
+						<a href="#" class="card-link btn btn-light text-uppercase">Open</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+{% include footer.html %}
