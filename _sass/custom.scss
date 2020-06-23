@@ -25,3 +25,33 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+.card-img-custom {
+	width: 176px;
+	margin: 0 auto;
+	border-radius: 50%;
+	transition: transform 1s ease-out, box-shadow 1s ease-out;
+}
+
+.card-img-custom:hover {
+	transform: scale(1.05);
+	box-shadow: 3px 5px 10px rgba(0,0,0,0.3);
+}
+
+// Homepage
+
+body#home {
+	padding-top: 0;
+}
+
+body#home header .bg-dark {
+	background-color: rgba(45,52,58,.8) !important;
+}
+
+.banner {
+	height: 530px;
+	background-image: url('/assets/img/mediasuite-banner.jpg');
+	background-size: cover;
+	background-position: 50% center;
+	background-repeat: no-repeat;
+}

@@ -23,21 +23,25 @@ defaults:
     path: ''
     type: pages
   values:
+    id: page
     layout: default
 - scope:
     path: ''
     type: posts
   values:
+    id: blog
     layout: blog
 - scope:
     path: ''
     type: faq
   values:
+    id: faq
     layout: faq
 - scope:
     path: ''
     type: glossary
   values:
+    id: glossary
     layout: glossary
 #email: bloemendalprijs@beeldengeluid.nl
 #description: De Philip Bloemendal Prijs stimuleert jong journalistiek presentatietalent

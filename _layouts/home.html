@@ -1,0 +1,41 @@
+{% include header.html %}
+<main role="main" class="flex-shrink-0">
+	<div class="container-fluid banner">
+		
+	</div>
+	<div class="container py-5">
+		<div class="card-deck">
+			<div class="card text-center border-0">
+				<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/img/bigicon-data.png' | relative_url }}" class="card-img-custom" alt="Data"></a>
+				<div class="card-body">
+					<h4 class="card-title">Data</h4>
+					<p class="card-text">Access important Dutch audio-visual collections (radio, television, films, oral history interviews) and contextual material. All available collections and their data are registered in a common inventory.</p>
+				</div>
+				<div class="card-footer border-0 bg-transparent">
+					<a href="{{ '/data' | relative_url }}" class="card-link btn btn-primary text-uppercase">Check out the data</a>
+				</div>
+			</div>
+			<div class="card text-center border-0">
+				<a href="{{ '/tools' | relative_url }}"><img src="{{ '/assets/img/bigicon-tools.png' | relative_url }}" class="card-img-custom" alt="Tools"></a>
+				<div class="card-body">
+					<h4 class="card-title">Tools</h4>
+					<p class="card-text">Use some of the CLARIAH open source tools that allow researchers to perform search, annotation, automatic speech recognition, and other analysis tasks with the available data.</p>
+				</div>
+				<div class="card-footer border-0 bg-transparent">
+					<a href="{{ '/tools' | relative_url }}" class="card-link btn btn-primary text-uppercase">Use the tools</a>
+				</div>
+			</div>
+			<div class="card text-center border-0">
+				<a href="{{ '/workspace' | relative_url }}"><img src="{{ '/assets/img/bigicon-workspace.png' | relative_url }}" class="card-img-custom" alt="Workspace"></a>
+				<div class="card-body">
+					<h4 class="card-title">Workspace</h4>
+					<p class="card-text">Functional work space and experimental Jupyter notebooks to work with your corpus and user data (bookmarks, annotations, queries, search sessions, and user collections).</p>
+				</div>
+				<div class="card-footer border-0 bg-transparent">
+					<a href="{{ '/workspace' | relative_url }}" class="card-link btn btn-primary text-uppercase">Discover your workspace</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+{% include footer.html %}

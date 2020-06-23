@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>CLARIAH Media Suite - {{ page.title }}</title>
+  <title>CLARIAH Media Suite{% if page.title %} - {{ page.title }}{% endif %}</title>
 
   <!-- Google fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500;600&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
@@ -14,7 +14,7 @@
   <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
 
 </head>
-<body class="d-flex flex-column h-100">
+<body id="{{ page.id }}" class="d-flex flex-column h-100">
 
   <header>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
