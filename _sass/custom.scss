@@ -6,7 +6,8 @@ $headings-font-family: "Maven Pro", -apple-system, BlinkMacSystemFont, "Segoe UI
 $headings-font-weight: 500;
 
 $theme-colors: (
-	"primary": #f26c50 /* Orange */
+	"primary": #f26c50, /* Orange */
+	"secondary": #468dcb
 );
 
 @import "bootstrap/scss/bootstrap.scss";
@@ -48,6 +49,13 @@ body#home header .bg-dark {
 .banner {
 	height: 530px;
 	background-image: url('../img/mediasuite-banner.jpg');
+	background-size: cover;
+	background-position: 50% center;
+	background-repeat: no-repeat;
+}
+
+.banner-mask {
+	background-image: url('../img/banner-mask.jpg');
 	background-size: cover;
 	background-position: 50% center;
 	background-repeat: no-repeat;
