@@ -11,7 +11,7 @@ The Media Suite is an innovative digital research environment, an **experimental
 
 ## Building blocks
 
-<img src="https://raw.githubusercontent.com/CLARIAH/mediasuite-info/master/docs/_images/media-suite-illustration.png" width=300/>
+![Media Suite illustration](/uploads/media-suite-illustration.png)
 
 The Media Suite can be decomposed into three building blocks: **data**, **tools** to work with the data, and a **workspace** to store your work with the data.
 

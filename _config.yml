@@ -3,25 +3,28 @@ title: CLARIAH Media Suite
 timezone: Europe/Amsterdam
 collections_dir: collections
 collections:
+  posts:
+    title: News
+    output: true
+    permalink: /blog/:year/:month/:day/:title
   faq:
     title: FAQ
-  #  output: true
-  #  permalink: /documentation/:collection/:name
-  # posts:
-  #   title: Nieuws
-  #   output: true
-  # uploads:
-  #   title: Uploads
-  #   output: true
-  # winners:
-  #   title: Winnaars
-  #   output: true
+    output: true
+    permalink: /documentation/:collection/:name
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
     type: pages
   values:
-    layout: page
+    layout: default
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: blog
 - scope:
     path: ''
     type: faq

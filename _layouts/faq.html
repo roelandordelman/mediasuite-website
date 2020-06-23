@@ -3,22 +3,16 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
-				<div class="list-group" id="list-tab" role="tablist">
-				{% assign faqs = site.faq | sort: 'position' %}
-				{% for faq in faqs %}
-					<a class="list-group-item list-group-item-action{% if faq.position == 1 %} active{% endif %} small" id="list-{{ faq.title | slugify }}-list" data-toggle="list" href="#list-{{ faq.title | slugify }}" role="tab" aria-controls="{{ faq.title | slugify }}">{{ faq.title }}</a>
-				{% endfor %}
+				<div class="list-group">
+					{% assign faqs = site.faq | sort: 'position' %}
+					{% for faq in faqs %}
+					<a href="{{ faq.url | relative_url }}" class="list-group-item list-group-item-action small{% if page.url == faq.url %} active{% endif %}">{{ faq.title }}</a>
+					{% endfor %}
 				</div>
 			</div>
 			<div class="col-md-8">
-				<div class="tab-content" id="nav-tabContent">
-					{% for faq in faqs %}
-					<div class="tab-pane fade{% if faq.position == 1 %} show active{% endif %}" id="list-{{ faq.title | slugify }}" role="tabpanel" aria-labelledby="list-{{ faq.title | slugify }}-list">
-						<h2>{{ faq.title }}</h2>
-						{{ faq.content }}
-					</div>
-					{% endfor %}
-				</div>
+				<h1>{{ page.title }}</h1>
+				{{ content }}
 			</div>
 		</div>
 	</div>
