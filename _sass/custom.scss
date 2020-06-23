@@ -26,14 +26,11 @@ img {
 	height: auto;
 }
 
-.card-img-custom {
-	width: 176px;
-	margin: 0 auto;
-	border-radius: 50%;
+.img-animate {
 	transition: transform 1s ease-out, box-shadow 1s ease-out;
 }
 
-.card-img-custom:hover {
+.img-animate:hover {
 	transform: scale(1.05);
 	box-shadow: 3px 5px 10px rgba(0,0,0,0.3);
 }
@@ -50,7 +47,7 @@ body#home header .bg-dark {
 
 .banner {
 	height: 530px;
-	background-image: url('/assets/img/mediasuite-banner.jpg');
+	background-image: url('../img/mediasuite-banner.jpg');
 	background-size: cover;
 	background-position: 50% center;
 	background-repeat: no-repeat;
