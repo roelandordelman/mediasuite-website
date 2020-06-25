@@ -15,6 +15,10 @@ collections:
     title: Glossary
     output: true
     permalink: /documentation/glossary/:name
+  release-notes:
+    title: Release notes
+    output: true
+    permalink: /documentation/release-notes/:name
   uploads:
     title: Uploads
     output: true
@@ -43,6 +47,12 @@ defaults:
   values:
     id: glossary
     layout: glossary
+- scope:
+    path: ''
+    type: release-notes
+  values:
+    id: release-notes
+    layout: release-notes
 #email: bloemendalprijs@beeldengeluid.nl
 #description: De Philip Bloemendal Prijs stimuleert jong journalistiek presentatietalent
   # in de media. Genomineerden ontvangen een oorkonde en de winnaar ontvangt tevens
