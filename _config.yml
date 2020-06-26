@@ -19,6 +19,10 @@ collections:
     title: Release notes
     output: true
     permalink: /documentation/release-notes/:name
+  howtos:
+    title: Media Suite's HowTos
+    output: true
+    permalink: /documentation/howtos/:name
   uploads:
     title: Uploads
     output: true
@@ -53,6 +57,12 @@ defaults:
   values:
     id: release-notes
     layout: release-notes
+- scope:
+    path: ''
+    type: howtos
+  values:
+    id: howtos
+    layout: howtos
 #email: bloemendalprijs@beeldengeluid.nl
 #description: De Philip Bloemendal Prijs stimuleert jong journalistiek presentatietalent
   # in de media. Genomineerden ontvangen een oorkonde en de winnaar ontvangt tevens
