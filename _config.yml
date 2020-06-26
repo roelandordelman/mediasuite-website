@@ -23,6 +23,10 @@ collections:
     title: Media Suite's HowTos
     output: true
     permalink: /documentation/howtos/:name
+  help:
+    title: Help
+    output: true
+    permalink: /help/:name
   uploads:
     title: Uploads
     output: true
@@ -63,6 +67,12 @@ defaults:
   values:
     id: howtos
     layout: howtos
+- scope:
+    path: ''
+    type: help
+  values:
+    id: help
+    layout: help
 email: 
 description: 
 baseurl: /mediasuite-website
