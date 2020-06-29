@@ -3,7 +3,7 @@
 			<div class="row">
 				<div class="col-sm-4">
 					<img src="{{ 'assets/img/logo.svg' | relative_url }}" width="207" alt="CLARIAH Media Suite" loading="lazy">
-					<p><span class="text-muted">Version:</span> <a class="text-light" href="/documentation/release-notes/v4-14">4.14</a></p>
+					<p><span class="text-muted">Version:</span> <a class="text-light" href="{{ '/documentation/release-notes' | relative_url }}">{{ site.version }}</a></p>
 				</div>
 				<div class="col-sm">
 					<nav class="nav flex-column">
@@ -14,7 +14,7 @@
 				<div class="col-sm">
 					<nav class="nav flex-column">
 						<a class="nav-link text-light" href="{{ '/about' | relative_url }}">About</a>
-						<a class="nav-link text-light" href="{{ '/learn' | relative_url }}">Learn</a>
+						<a class="nav-link text-light" href="{{ '/documentation' | relative_url }}">Learn</a>
 						<a class="nav-link text-light" href="{{ '/help' | relative_url }}">Help</a>
 					</nav>
 				</div>

@@ -1,5 +1,6 @@
 ---
 title: CLARIAH Media Suite
+version: v5.0
 timezone: Europe/Amsterdam
 collections_dir: collections
 collections:
@@ -76,7 +77,7 @@ defaults:
 email: 
 description: 
 baseurl: /mediasuite-website
-url: https://www.bloemendal.info
+# url: 
 twitter_username: mediasuite_nl
 markdown: kramdown
 plugins:
