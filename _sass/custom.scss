@@ -1,14 +1,20 @@
 // Base CSS
 
+$font-size-base: .875rem;
+// $enable-shadows: true;
+
 $font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
 $headings-font-family: "Maven Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $headings-font-weight: 500;
 
 $theme-colors: (
-	"primary": #f26c50, /* Orange */
-	"secondary": #468dcb
+	"primary": #f26c50, /* orange */
+	"secondary": #468dcb /* blue */ 
 );
+
+$carousel-control-color: #333;
+$carousel-indicator-active-bg: #333;
 
 @import "bootstrap/scss/bootstrap.scss";
 
@@ -56,7 +62,17 @@ body#home header .bg-dark {
 
 .banner-mask {
 	background-image: url('../img/banner-mask.jpg');
-	background-size: cover;
-	background-position: 50% center;
-	background-repeat: no-repeat;
+}
+
+// Carousel styling (TODO: relative positioning, responsive)
+
+#carousel-home {
+	margin-top: 160px;
+	margin-right: 60px;
+	max-width: 500px;
+	min-height: 280px;
+}
+
+#carousel-home .carousel-item {
+	padding: 1rem 15%;
 }

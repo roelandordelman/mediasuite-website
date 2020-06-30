@@ -6,7 +6,7 @@
 				<div class="list-group" id="list-tab" role="tablist">
 				{% assign faq = site.faq | sort: 'position' %}
 				{% for item in faq %}
-					<a class="list-group-item list-group-item-action{% if item.position == 1 %} active{% endif %} small" id="list-{{ item.title | slugify }}-list" data-toggle="list" href="#list-{{ item.title | slugify }}" role="tab" aria-controls="{{ item.title | slugify }}">{{ item.title }}</a>
+					<a class="list-group-item list-group-item-action{% if item.position == 1 %} active{% endif %}" id="list-{{ item.title | slugify }}-list" data-toggle="list" href="#list-{{ item.title | slugify }}" role="tab" aria-controls="{{ item.title | slugify }}">{{ item.title }}</a>
 				{% endfor %}
 				</div>
 			</div>

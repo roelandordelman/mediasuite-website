@@ -31,6 +31,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  carousel:
+    title: Carousel
+    output: false
 defaults:
 - scope:
     path: ''
