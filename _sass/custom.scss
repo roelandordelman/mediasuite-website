@@ -1,6 +1,7 @@
 // Base CSS
 
 // $enable-shadows: true;
+$enable-responsive-font-sizes: true;
 
 // Fonts
 
@@ -14,9 +15,16 @@ $headings-font-weight: 500;
 // Colors
 
 $theme-colors: (
-	"primary": #f26c50, /* orange */
-	"secondary": #468dcb /* blue */ 
+	"primary": #468dcb, /* blue */
+	"secondary": #f26c50, /* orange */ 
+	"light": #faf6f6 /* light pink */
 );
+
+$link-color: #f26c50; /* orange */
+
+$list-group-active-color: #212529; /* body font color */
+$list-group-active-bg: #faf6f6; /* light pink */
+$list-group-active-border-color: rgba(0, 0, 0, 0.125); /* same as non-active */
 
 // Carousel
 

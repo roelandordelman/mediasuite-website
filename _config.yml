@@ -80,7 +80,7 @@ defaults:
 email: 
 description: 
 baseurl: /mediasuite-website
-# url: 
+url: 
 twitter_username: mediasuite_nl
 markdown: kramdown
 plugins:

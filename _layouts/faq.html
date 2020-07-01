@@ -7,7 +7,7 @@
 				<div class="list-group">
 					{% assign items = site.faq | sort: 'position' %}
 					{% for item in items %}
-					<a href="{{ item.url | relative_url }}" class="list-group-item list-group-item-action{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+					<a href="{{ item.url | relative_url }}" class="list-group-item list-group-item-action {% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
 					{% endfor %}
 				</div>
 			</div>
