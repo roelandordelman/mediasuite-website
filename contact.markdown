@@ -1,8 +1,8 @@
 ---
-layout: help
-title: Help
-menu: help
-permalink: /help
+layout: default
+title: Contact
+menu: contact
+permalink: /contact
 ---
 
 **Troubleshooting? Problems or suggestions in using the Media Suite?**
