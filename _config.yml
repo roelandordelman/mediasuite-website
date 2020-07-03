@@ -27,7 +27,7 @@ collections:
   help:
     title: Help
     output: true
-    permalink: /help/:name
+    permalink: /documentation/:name
   uploads:
     title: Uploads
     output: true
