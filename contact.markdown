@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contact
 title: Contact
 menu: contact
 permalink: /contact
@@ -7,7 +7,7 @@ permalink: /contact
 
 **Troubleshooting? Problems or suggestions in using the Media Suite?**
 
-Check our [Learn](/mediasuite-website/documentation) pages or use our Gitter chat rooms.
+Check our [Learn](/mediasuite-website/documentation) pages or use our [Gitter chat rooms](/mediasuite-website/documentation/forum).
 
 **For research and CLARIAH project-related questions:**
 
