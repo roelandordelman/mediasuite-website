@@ -36,6 +36,10 @@ $carousel-indicator-active-bg: #333;
 $btn-font-family: $headings-font-family;
 $btn-border-radius: 2px;
 
+// Navbar
+
+$navbar-nav-link-padding-x: 1rem;
+
 @import "bootstrap/scss/bootstrap.scss";
 
 // Custom CSS
@@ -45,7 +49,8 @@ body {
 }
 
 header, footer {
-	font-family: $headings-font-family
+	font-family: $headings-font-family;
+	font-size: 1rem;
 }
 
 img {
