@@ -8,42 +8,55 @@
 			<div class="col-md-8 pt-2">
 				{{ content }}
 				<p class="text-center pt-2">
-					<a href="{{ '/documentation/howtos' | relative_url }}" class="btn btn-light text-uppercase">View documentation</a>
+					<a href="{{ '/documentation/howtos' | relative_url }}" class="btn btn-light text-uppercase">See Howtos</a>
 				</p>
 			</div>
 		</div>
 		<div class="card-deck d-flex justify-content-center my-3">
 			<div class="card text-center">
-				<img src="{{ '/assets/img/icon-inspect.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Collection inspector">
+				<a href="{{ '/tool/collection-inspector' | relative_url }}"><img src="{{ '/assets/img/icon-inspect.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Collection inspector"></a>
 				<div class="card-body">
 					<h5 class="card-title">Inspect</h5>
 					<p class="card-text">Supports data criticism by providing various views on collection metadata</p>
-					<p>
-						<a href="#" class="card-link btn btn-link text-uppercase">Details</a>
-						<a href="#" class="card-link btn btn-light text-uppercase">Open</a>
-					</p>
+				</div>
+				<div class="card-footer border-0 bg-transparent">
+					<a href="{{ '/documentation/howtos/collection-inspector' | relative_url }}" class="card-link btn btn-link text-uppercase">Details</a>
+					<a href="{{ '/tool/collection-inspector' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
 				</div>
 			</div>
 			<div class="card text-center">
-				<img src="{{ '/assets/img/icon-search.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Basic faceted search">
+				<a href="{{ '/tool/single-search' | relative_url }}"><img src="{{ '/assets/img/icon-search.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Basic faceted search"></a>
 				<div class="card-body">
 					<h5 class="card-title">Search</h5>
 					<p class="card-text">Supports distant reading, corpus selection and close reading.</p>
-					<p>
-						<a href="#" class="card-link btn btn-link text-uppercase">Details</a>
-						<a href="#" class="card-link btn btn-light text-uppercase">Open</a>
-					</p>
+				</div>
+				<div class="card-footer border-0 bg-transparent">
+					<a href="{{ '/documentation/howtos/single-search' | relative_url }}" class="card-link btn btn-link text-uppercase">Details</a>
+					<a href="{{ '/tool/single-search' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
 				</div>
 			</div>
+			<!-- if user != None and user.id != 'ANONYMOUS' -->
 			<div class="card text-center">
-				<img src="{{ '/assets/img/icon-explore.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Exploratory browser">
+				<a href="{{ '/tool/query-comparison' | relative_url }}"><img src="{{ '/assets/img/icon-compare.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Comparative search"></a>
+				<div class="card-body">
+					<h5 class="card-title">Compare</h5>
+					<p class="card-text">Supports comparative analysis of collections.</p>
+				</div>
+				<div class="card-footer border-0 bg-transparent">
+					<a href="{{ '/documentation/howtos/query-comparison' | relative_url }}" class="card-link btn btn-link text-uppercase">Details</a>
+					<a href="{{ '/tool/query-comparison' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
+				</div>
+			</div>
+			<!-- endif  -->
+			<div class="card text-center">
+				<a href="{{ '/tool/exploratory-search' | relative_url }}"><img src="{{ '/assets/img/icon-explore.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Exploratory browser"></a>
 				<div class="card-body">
 					<h5 class="card-title">Explore</h5>
 					<p class="card-text">Supports open-ended browsing to facilitate serendipitous discovery.</p>
-					<p>
-						<a href="#" class="card-link btn btn-link text-uppercase">Details</a>
-						<a href="#" class="card-link btn btn-light text-uppercase">Open</a>
-					</p>
+				</div>
+				<div class="card-footer border-0 bg-transparent">
+					<a href="{{ '/documentation/howtos/exploratory-search' | relative_url }}" class="card-link btn btn-link text-uppercase">Details</a>
+					<a href="{{ '/tool/exploratory-search' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
 				</div>
 			</div>
 		</div>
