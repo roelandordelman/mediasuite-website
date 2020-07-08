@@ -1,20 +1,13 @@
 {% include header.html %}
-<main role="main" class="flex-shrink-0">
+<main role="main" class="flex-shrink-0 my-5">
 	<div class="container">
 		<h1>{{ page.title }}</h1>
-		<div class="posts">
-			{% for post in site.posts %}
-			<div class="post">
-
-				<h4><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}
-				</a></h4>
-
-				<span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }}</span>
-				<p>{{ post.introduction }}</p>
-			</div>
-			<hr>
-			{% endfor %}
-		</div>
+		{% for post in site.posts %}
+		<h4><a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
+		<p>{{ post.date | date_to_string }}</p>
+		<p>{{ post.introduction }}</p>
+		<hr>
+		{% endfor %}
 	</div>
 </main>
 {% include footer.html %}
