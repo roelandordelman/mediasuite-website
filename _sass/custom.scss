@@ -101,3 +101,14 @@ body#home header .bg-dark {
 #carousel-home .carousel-item {
 	padding: 1rem 15%;
 }
+
+// Tutorials
+
+article.tutorial h2, h3, h4, h5 {
+	margin-top: 1.5rem;
+}
+
+article.tutorial img {
+	border: 1px solid #000;
+	margin: 1.5rem 0;
+}

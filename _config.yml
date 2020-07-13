@@ -28,6 +28,10 @@ collections:
     title: Help
     output: true
     permalink: /documentation/:name
+  learn:
+    title: Learn
+    output: true
+    permalink: /learn/:name
   uploads:
     title: Uploads
     output: true
@@ -77,6 +81,12 @@ defaults:
   values:
     id: help
     layout: help
+- scope:
+    path: ''
+    type: learn
+  values:
+    id: learn
+    layout: learn
 email: 
 description: 
 baseurl: /mediasuite-website
