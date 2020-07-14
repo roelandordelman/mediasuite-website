@@ -1,5 +1,6 @@
 ---
-title: 'Screening Desmet: reflections on the MIMEHIST-project and CLARIAH’s Media Suite.'
+title: 'Screening Desmet: reflections on the MIMEHIST-project and CLARIAH’s Media
+  Suite.'
 date: 2018-08-27 00:00:00 +02:00
 layout: post
 introduction: Researcher Kathleen Lotze reflects about her experience as one of the
