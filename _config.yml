@@ -17,14 +17,14 @@ collections:
     title: Help
     output: true
     permalink: "/documentation/:name"
+  howtos:
+    title: HowTos
+    output: true
+    permalink: "/documentation/howtos/:name"
   learn:
     title: Learn
     output: true
     permalink: "/learn/:name"
-  howtos:
-    title: Media Suite's HowTos
-    output: true
-    permalink: "/documentation/howtos/:name"
   posts:
     title: News
     output: true
