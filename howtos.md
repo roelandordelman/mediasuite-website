@@ -1,6 +1,7 @@
 ---
 title: Media Suite's HowTos
 layout: howtos
+permalink: /documentation/howtos
 ---
 
 Here you will find descriptions about how to accomplish specific tasks with the Media Suite. 

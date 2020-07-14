@@ -1,6 +1,7 @@
 ---
 title: Media Suite User Documentation
 layout: help
+permalink: /documentation
 ---
 
 The CLARIAH Media Suite is intended primarily as a **research tool** for scholars interested in **data science** with media collections maintained at institutes in the Netherlands such as Netherlands Institute for Sound and Vision, National Library, Eye Film Institute, DANS, Meertens Institute, etc. The Media Suite provides specific tools for researchers to search, analyse and annotate these data collections. In this documentation section we aim to provide all the necessary information needed to work with the Media Suite, in the form of:
