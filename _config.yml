@@ -82,8 +82,12 @@ defaults:
     path: ''
     type: learn
   values:
-    id: learn
     layout: learn
+    title: 
+    date: 
+    functionalities: []
+    collections: []
+    disciplines: []
 version: v5.0
 collections_dir: collections
 email: 
