@@ -1,8 +1,8 @@
 ---
-layout: tools
 title: Tools
+permalink: "/tools"
+layout: tools
 menu: tools
-permalink: /tools
 ---
 
 The Media Suite tools offer the core functionalities needed for performing scholarly research tasks with audio-visual media and contextual collections.

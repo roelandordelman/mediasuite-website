@@ -1,43 +1,40 @@
 ---
 title: CLARIAH Media Suite
-version: v5.0
 timezone: Europe/Amsterdam
-collections_dir: collections
 collections:
-  posts:
-    title: News
-    output: true
-    permalink: /blog/:year/:month/:day/:title
-  faq:
-    title: FAQ
-    output: true
-    permalink: /documentation/faq/:name
-  glossary:
-    title: Glossary
-    output: true
-    permalink: /documentation/glossary/:name
-  release-notes:
-    title: Release notes
-    output: true
-    permalink: /documentation/release-notes/:name
-  howtos:
-    title: Media Suite's HowTos
-    output: true
-    permalink: /documentation/howtos/:name
-  help:
-    title: Help
-    output: true
-    permalink: /documentation/:name
-  learn:
-    title: Learn
-    output: true
-    permalink: /learn/:name
-  uploads:
-    title: Uploads
-    output: true
   carousel:
     title: Carousel
     output: false
+  faq:
+    title: FAQ
+    output: true
+    permalink: "/documentation/faq/:name"
+  glossary:
+    title: Glossary
+    output: true
+    permalink: "/documentation/glossary/:name"
+  help:
+    title: Help
+    output: true
+    permalink: "/documentation/:name"
+  learn:
+    title: Learn
+    output: true
+    permalink: "/learn/:name"
+  howtos:
+    title: Media Suite's HowTos
+    output: true
+    permalink: "/documentation/howtos/:name"
+  posts:
+    title: News
+    output: true
+  release-notes:
+    title: Release notes
+    output: true
+    permalink: "/documentation/release-notes/:name"
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
@@ -87,9 +84,11 @@ defaults:
   values:
     id: learn
     layout: learn
+version: v5.0
+collections_dir: collections
 email: 
 description: 
-baseurl: /mediasuite-website
+baseurl: "/mediasuite-website"
 url: 
 twitter_username: mediasuite_nl
 markdown: kramdown

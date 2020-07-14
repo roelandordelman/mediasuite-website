@@ -1,6 +1,7 @@
 ---
-layout: contact
 title: Contact
+permalink: "/contact"
+layout: contact
 menu: contact
-permalink: /contact
 ---
+

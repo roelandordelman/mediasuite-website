@@ -1,9 +1,12 @@
 ---
+title: Reportage of the launching of the Media Suite and the CLARIAH Media studies
+  research pilots in the E-Data & Research magazine
+date: 2017-07-17 00:00:00 +02:00
 layout: post
-title: "Reportage of the launching of the Media Suite and the CLARIAH Media studies research pilots in the E-Data & Research magazine"
-imageUrl: "edata-reportage-655x480.jpeg"
-introduction: "The third issue of the “E-Data & Research” magazine this year brings a reportage of the Media Suite launching event on April 4, 2017, when the CLARIAH media studies team celebrated the debut of the…"
-date: 2017-7-17
+imageUrl: edata-reportage-655x480.jpeg
+introduction: The third issue of the “E-Data & Research” magazine this year brings
+  a reportage of the Media Suite launching event on April 4, 2017, when the CLARIAH
+  media studies team celebrated the debut of the…
 ---
 
 <article id="post-139" class="post-139 post type-post status-publish format-image has-post-thumbnail hentry category-ms-in-the-news tag-media-suite tag-public_news post_format-post-format-image">

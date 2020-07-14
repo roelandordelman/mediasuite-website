@@ -1,6 +1,7 @@
 ---
-layout: blog
 title: Media Suite Blog
+permalink: "/blog"
+layout: blog
 menu: blog
-permalink: /blog
 ---
+

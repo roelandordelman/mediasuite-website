@@ -1,8 +1,8 @@
 ---
-layout: data
 title: Data
+permalink: "/data"
+layout: data
 menu: data
-permalink: /data
 ---
 
 The CLARIAH Media suite gives access to important national Dutch audiovisual archives. Among others: 

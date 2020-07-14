@@ -1,8 +1,10 @@
 ---
+title: Paper presented at CHIIR 2017 in Oslo
+date: 2017-03-07 00:00:00 +01:00
 layout: post
-title: "Paper presented at CHIIR 2017 in Oslo"
-introduction: "A study done by CLARIAH Media Studies researchers about media scholars’ annotating behavior was presented at the The ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR).1 1. Melgar L, Koolen M, Huurdeman H,…"
-date: 2017-3-7
+introduction: A study done by CLARIAH Media Studies researchers about media scholars’
+  annotating behavior was presented at the The ACM SIGIR Conference on Human Information
+  Interaction and Retrieval (CHIIR).1 1. Melgar L, Koolen M, Huurdeman H,…
 ---
 
 <article id="post-60" class="post-60 post type-post status-publish format-standard hentry category-paper"><header class="entry-header">

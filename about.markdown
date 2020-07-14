@@ -1,6 +1,7 @@
 ---
-layout: about
 title: About
+permalink: "/about"
+layout: about
 menu: about
-permalink: /about
 ---
+
