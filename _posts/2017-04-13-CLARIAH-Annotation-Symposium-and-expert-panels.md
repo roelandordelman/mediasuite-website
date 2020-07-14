@@ -4,7 +4,7 @@ date: 2017-04-13 00:00:00 +02:00
 layout: post
 introduction: CLARIAH Media Studies focus invites to a two-day symposium and expert
   meetings around the topic of scholarly annotations of text, image, and audio-visual
-  materials. 
+  materials.
 ---
 
 CLARIAH Media Studies focus invites to a two-day symposium and expert meetings around the topic of scholarly annotations of text, image, and audio-visual materials.

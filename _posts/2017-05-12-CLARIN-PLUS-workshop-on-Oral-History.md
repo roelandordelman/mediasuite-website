@@ -4,7 +4,7 @@ date: 2017-05-12 00:00:00 +02:00
 layout: post
 introduction: From 10-12 May 2017, CLARIAH WP5 attended a two-day CLARIN-PLUS workshop
   in Arezzo to discuss the development of an automatic transcription chain for Oral
-  History that eventually could be integrated into the CLARIN infrastructure. 
+  History that eventually could be integrated into the CLARIN infrastructure.
 ---
 
 From 10-12 May 2017, CLARIAH WP5 attended a two-day CLARIN-PLUS workshop in Arezzo to discuss the development of an automatic transcription chain for Oral History that eventually could be integrated into the CLARIN infrastructure. The automatic transcription chain consists of a cascade of components, including automatic speech recognition, that help scholars to generate speech transcripts for interviews. CLARIAH WP5 was invited to the workshop to share technical and infrastructural experience on the development of such a transcription chain in the CLARIAH Media Suite, that currently is in progress. Also, CLARIAH took part in the discussion on scholarly requirements of transcription, given available techniques that were presented at the workshop by invited experts in the field.
