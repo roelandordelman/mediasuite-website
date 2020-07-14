@@ -1,7 +1,0 @@
----
-title: Research Data Management
----
-
-Research data management (RDM) is an important topic for researchers nowadays. For their research, scholars are required to develop a research data management plan that helps them to make conscious decisions about research data and keeps data safe. This is particularly important when working with personal data. Research data management also encourages open science and enables the reuse of data which is evidently very important in the context of research infrastructures, such as CLARIAH. Archiving research data is the best way to guarantee scientific integrity and enable verification and potential reuse of datasets. Typically, data is archived at publication or after research via a certified archive.
-
-In the Media Suite, researchers can be provided access to collections as long as privacy criteria are met. This may be different for each collection. For some collections, it may be the case that access needs to be requested on an individual basis, either via the archive that maintains the collection (e.g., [DANS](https://dans.knaw.nl/)) or via the researcher that created the collection. CLARIAH is developing methods to first of all, make access restrictions for collections transparent, and secondly, enable online processing of requests and permissions. The first step we are taking is setting up a CLARIAH-wide authentication and authorization system that would allow us to *authorize* the use of collections to specific scholars that are *authenticated* by the system.
