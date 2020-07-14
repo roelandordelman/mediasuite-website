@@ -2,12 +2,11 @@
 title: Report about the CLARIAH Media Studies Summer School (July 2-6, 2018)
 date: 2018-10-01 00:00:00 +02:00
 layout: post
-imageUrl: ''
 introduction: The first CLARIAH summer school took place last summer, this reports
   summarizes the event's main achievements and outcomes of the evaluation.
 ---
 
-The CLARIAH Media Studies summer school was a one-week event organized by the CLARIAH Media Studies working group. It introduced scholars (senior, phd, and master students) to the CLARIAH tools for advanced audio-visual analysis, which enable research on a growing number of collections and their contextual data. [See program here](https://clariah.github.io/mediasuite-blog/blog/2018/02/16/CLARIAH-summer-school).
+The CLARIAH Media Studies summer school was a one-week event organized by the CLARIAH Media Studies working group. It introduced scholars (senior, phd, and master students) to the CLARIAH tools for advanced audio-visual analysis, which enable research on a growing number of collections and their contextual data. [See program here](https://mediasuite.clariah.nl/blog/2018/02/16/CLARIAH-summer-school).
 
 The more than thirty participants worked in eight small research projects in which all the potential of the Media Suite and its complementary services (e.g., Jupyter Notebooks) were used for real research questions. The projects were entitled:
 
