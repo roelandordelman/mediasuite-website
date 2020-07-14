@@ -1,7 +1,7 @@
 ---
 title: Release notes
+permalink: "/documentation/release-notes"
 layout: release-notes
-permalink: /documentation/release-notes
 ---
 
 - [Version 4.14 (03-06-2020)](https://mediasuite.clariah.nl/documentation/release-notes/v4-14)
