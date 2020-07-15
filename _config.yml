@@ -83,6 +83,16 @@ defaults:
     type: learn
   values:
     layout: tutorial
+    author: 
+    functionalities: []
+    collections: []
+    disciplines: []
+    version: 
+    user_level: 
+    user_skills: 
+    language: 
+    vimeo_url: 
+    other_urls: []
 version: v5.0
 email: 
 description: 

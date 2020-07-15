@@ -94,17 +94,21 @@ body#home header .bg-dark {
 #carousel-home {
 	margin-top: 160px;
 	margin-right: 60px;
-	max-width: 500px;
-	min-height: 280px;
+	max-width: 510px;
+	min-height: 300px;
 }
 
 #carousel-home .carousel-item {
+	font-size: 0.875rem;
 	padding: 1rem 15%;
 }
 
 // Tutorials
 
-article.tutorial h2, h3, h4, h5 {
+article.tutorial h2, 
+article.tutorial h3, 
+article.tutorial h4, 
+article.tutorial h5 {
 	margin-top: 1.5rem;
 }
 
