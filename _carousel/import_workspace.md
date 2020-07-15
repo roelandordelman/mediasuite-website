@@ -1,7 +1,7 @@
 ---
 title: Import workspace
 position: 1
-header: "Important notice for active users:"
+header: 'Important notice for active users:'
 link_txt: Import your workspace
 link_url: "/workspace/projects?import_workspace=1"
 ---

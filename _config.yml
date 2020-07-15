@@ -5,7 +5,6 @@ collections:
   posts:
     title: Blog
     output: true
-    permalink: /:year/:month/:day/:title
   carousel:
     title: Carousel
     output: false
@@ -91,8 +90,6 @@ baseurl: "/mediasuite-website"
 url: 
 twitter_username: mediasuite_nl
 markdown: kramdown
-# plugins:
-# - jekyll-feed
 exclude:
 - README.md
 - Gemfile
