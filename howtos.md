@@ -1,7 +1,7 @@
 ---
 title: Media Suite's HowTos
 permalink: "/documentation/howtos"
-position: 7
+position: 8
 layout: howtos
 ---
 

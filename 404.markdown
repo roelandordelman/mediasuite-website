@@ -1,7 +1,7 @@
 ---
 title: 404 Page Not Found
 permalink: "/404.html"
-position: 4
+position: 5
 layout: default
 ---
 
