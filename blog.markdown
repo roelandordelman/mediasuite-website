@@ -1,7 +1,7 @@
 ---
 title: Media Suite Blog
 permalink: "/blog"
-position: 8
+position: 7
 layout: blog
 menu: blog
 ---

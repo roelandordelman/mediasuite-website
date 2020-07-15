@@ -1,7 +1,7 @@
 ---
 title: Release notes
 permalink: "/documentation/release-notes"
-position: 10
+position: 9
 layout: release-notes
 ---
 
