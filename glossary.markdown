@@ -1,6 +1,7 @@
 ---
 title: Glossary
 permalink: "/documentation/glossary"
+position: 10
 layout: glossary
 ---
 
