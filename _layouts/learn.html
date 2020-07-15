@@ -2,7 +2,8 @@
 <main role="main" class="flex-shrink-0 my-5">
 	<div class="container">
 		<h1>{{ page.title }}</h1>
-		{% for item in site.learn %}
+		{% assign items = site.learn | sort: 'date' | reverse %}
+		{% for item in items %}
 		<h4><a href="{{ item.url | relative_url }}" title="{{ item.title }}">{{ item.title }}</a></h4>
 		<p>by {{ item.author}}, {{ item.date | date: "%B %Y" }}</p>
 		<p>{{ item.introduction }}</p>

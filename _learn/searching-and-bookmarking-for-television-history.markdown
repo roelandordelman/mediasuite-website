@@ -11,7 +11,7 @@ disciplines:
 - Television Studies
 version: V4.9
 user_level: Beginner
-user_skills: Video recording and editing skills
+user_skills: 
 language: English/Dutch
 vimeo_url: 
 other_url: 
@@ -19,12 +19,12 @@ other_url:
 
 # Media Suite Tutorial: Searching and Bookmarking for Television History
 
-![Search tool Television Collection NISV](/mediasuite-website/uploads/tut_searching_and_browsing_0.png)
+![Searching and Bookmarking for Television History](/mediasuite-website/uploads/tut_searching_and_browsing_0.png)
 
 Tutorial for CLARIAH Media Suite V 4.9  
 Tutorial made by Christian Olesen, April 2020
 
-### Tutorial Description, Case and Objectives
+## Tutorial Description, Case and Objectives
 
 This tutorial introduces you to using the CLARIAH Media Suite's search tool and bookmarking functionality for television studies and/or television history research. Upon completing this tutorial, you will have learned to use the Media Suite for:
 
@@ -37,18 +37,17 @@ This tutorial revolves around the famous clip of Dutch ice skater Hilbert van de
 
 Van der Duim's blunder has become an iconic television moment because of the hilarious mistake and the Dutch commentator Leen Pfrommer's reaction that quickly switches from praising Van der Duim's achievement to shouting that he still has a round to go ("Hilbert jongen, je moet doorrijden! Wat ben je nou aan het doen?"). The moment's legend continues to linger on and is continuously reused in television broadcasts. For this reason, it lends itself particularly well to analyzing how a clip becomes iconic and how it is reiterated and presented differently over time. In this tutorial, you will make a corpus of items that reiterates this moment in different variations.
 
-**Types and levels of teaching and research**
+#### Types and levels of teaching and research
 
 The functionalities described in this tutorial are essential for using the Media Suite in any type of course work or research on all levels. Moreover, the tutorial specifically introduces you to ways of using the Media Suite that support television history teaching and research that aim at critically evaluating processes of canon formation and iconic moments in broadcast history.
 
-
-**Prerequisites**
+#### Prerequisites
 
 Before taking the steps described below, make sure that you have logged into the Media Suite and created a user project. You may name your user project in whichever way you like. In this tutorial, the example user project will be named "Hilbert van der Duim" focussing on the case described above.
 
-### Steps
+## Steps
 
-#### 1. Search tool Television Collection NISV
+### 1. Search tool Television Collection NISV
 
 ![Search tool Television Collection NISV](/mediasuite-website/uploads/tut_searching_and_browsing_1.png)
 
@@ -58,7 +57,7 @@ Before taking the steps described below, make sure that you have logged into the
 * **Click "Select Collection"** in the upper left corner
 * **Select Television Collection** from the drop-down menu
 
-#### 2. Find Items in the Television Collection I
+### 2. Find Items in the Television Collection I
 
 ![Find Items in the Television Collection I](/mediasuite-website/uploads/tut_searching_and_browsing_2.png)
 
@@ -69,7 +68,7 @@ Before taking the steps described below, make sure that you have logged into the
 * Try to **make a boolean query** with these terms:
    * To make your searches more targeted you may add Boolean query operators such as: AND, OR, NOT, Asterisk, Parentheses, Quotation Marks (if clarification is needed, see also Media Suite Boolean query how-to guide: [https://bit.ly/2WLTWOK](https://bit.ly/2WLTWOK))
 
-#### 3. Find Items in the Television Collection II
+### 3. Find Items in the Television Collection II
 
 ![Find Items in the Television Collection II](/mediasuite-website/uploads/tut_searching_and_browsing_3.png)
 
@@ -79,7 +78,7 @@ Before taking the steps described below, make sure that you have logged into the
 * In the search field on the right in the upper part of the search interface (the search field to the right of the keyword field) you **filter your results based on data type**. For instance, you may choose  to search simply on titles or metadata descriptions, or to search on data generated through Automatic Speech Recognition (ASR) instead of the metadata. Try to **play around with these options and see what gives the most relevant results**. 
 * **Take a moment to reflect**: what do the results say about the degree to which the data you search shape your research results? How do the results retrieved using archival metadata differ from the ones you obtain searching ASR data?
 
-#### 4. Store and retrieve queries
+### 4. Store and retrieve queries
 
 ![Store and retrieve queries](/mediasuite-website/uploads/tut_searching_and_browsing_4.png)
 
@@ -88,7 +87,7 @@ Before taking the steps described below, make sure that you have logged into the
 * Once you have clicked the "Save Query" button, the query will have been saved to your active user project
 * NB! Even with a saved query that you have used before, research results may not always be the same every time, for instance if new metadata or ASR data has been added to the environment since you last used it
 
-#### 5. Bookmark items
+### 5. Bookmark items
 
 ![Bookmark items](/mediasuite-website/uploads/tut_searching_and_browsing_5.png)
 
