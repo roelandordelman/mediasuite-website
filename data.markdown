@@ -1,7 +1,7 @@
 ---
 title: Data
 permalink: "/data"
-position: 12
+position: 2
 layout: data
 menu: data
 ---

@@ -1,7 +1,7 @@
 ---
 title: Media Suite User Documentation
 permalink: "/documentation"
-position: 7
+position: 8
 layout: help
 ---
 
