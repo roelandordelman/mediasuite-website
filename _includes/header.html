@@ -16,7 +16,7 @@
 	<link rel="shortcut icon" type="image/png" href="{{ '/assets/img/favicon.png' | relative_url }}">
 
 </head>
-<body id="{{ page.id }}" class="d-flex flex-column h-100">
+<body{% if page.id %} id="{{ page.id }}"{% endif %} class="d-flex flex-column h-100">
 
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">

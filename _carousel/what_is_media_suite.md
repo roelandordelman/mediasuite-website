@@ -1,5 +1,5 @@
 ---
-title: What_is_media_suite
+title: What is Media Suite
 position: 2
 link_txt: Read more
 link_url: "/documentation/faq/what-is-it"

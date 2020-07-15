@@ -1,5 +1,5 @@
 ---
 title: Learn
-layout: learn_index
+layout: learn
 ---
 

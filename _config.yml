@@ -5,6 +5,7 @@ collections:
   posts:
     title: Blog
     output: true
+    permalink: /:year/:month/:day/:title
   carousel:
     title: Carousel
     output: false
@@ -40,50 +41,49 @@ defaults:
     path: ''
     type: pages
   values:
-    id: page
     layout: default
 - scope:
     path: ''
     type: posts
   values:
-    id: blog
     layout: blog
+- scope:
+    path: ''
+    type: carousel
+  values:
+    header: 
+    link_txt: 
+    link_url: 
 - scope:
     path: ''
     type: faq
   values:
-    id: faq
     layout: faq
 - scope:
     path: ''
     type: glossary
   values:
-    id: glossary
     layout: glossary
 - scope:
     path: ''
     type: release-notes
   values:
-    id: release-notes
     layout: release-notes
 - scope:
     path: ''
     type: howtos
   values:
-    id: howtos
     layout: howtos
 - scope:
     path: ''
     type: help
   values:
-    id: help
     layout: help
 - scope:
     path: ''
     type: learn
   values:
-    id: learn
-    layout: learn
+    layout: tutorial
 version: v5.0
 email: 
 description: 
@@ -91,8 +91,8 @@ baseurl: "/mediasuite-website"
 url: 
 twitter_username: mediasuite_nl
 markdown: kramdown
-plugins:
-- jekyll-feed
+# plugins:
+# - jekyll-feed
 exclude:
 - README.md
 - Gemfile

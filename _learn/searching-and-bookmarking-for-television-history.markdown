@@ -1,5 +1,5 @@
 ---
-title: 'MEDIA SUITE TUTORIAL: SEARCHING AND BOOKMARKING FOR TELEVISION HISTORY'
+title: 'Media Suite Tutorial: Searching and Bookmarking for Television History'
 date: 2020-04-01 00:00:00 +02:00
 author: Christian Olesen
 functionalities:
@@ -17,7 +17,7 @@ vimeo_url:
 other_url: 
 ---
 
-# MEDIA SUITE TUTORIAL: SEARCHING AND BOOKMARKING FOR TELEVISION HISTORY
+# Media Suite Tutorial: Searching and Bookmarking for Television History
 
 ![Search tool Television Collection NISV](/mediasuite-website/uploads/tut_searching_and_browsing_0.png)
 
