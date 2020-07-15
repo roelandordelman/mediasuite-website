@@ -6,7 +6,7 @@ $enable-responsive-font-sizes: true;
 // Fonts
 
 // $font-size-base: .875rem;
-$line-height-base: 1.6;
+//$line-height-base: 1.6;
 
 $font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
@@ -105,6 +105,10 @@ body#home header .bg-dark {
 }
 
 // Tutorials
+
+article.tutorial {
+	line-height: 2;
+}
 
 article.tutorial h2, 
 article.tutorial h3, 

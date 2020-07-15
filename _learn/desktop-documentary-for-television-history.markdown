@@ -19,7 +19,7 @@ other_url:
 
 ![Desktop Documentary for Television History](/mediasuite-website/uploads/tut_desktop_documentary_0.png)
 
-Tutorial for CLARIAH Media Suite V 4.9, May 2020
+Tutorial for CLARIAH Media Suite V 4.9, May 2020  
 Tutorial made by Christian Olesen, May 2020
 
 ## Tutorial Description, Case and Objectives
