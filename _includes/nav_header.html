@@ -17,20 +17,20 @@
 							<a class="dropdown-item" href="{{ '/tool/collection-inspector' | relative_url }}">Inspect</a>
 							<a class="dropdown-item" href="{{ '/tool/single-search' | relative_url }}">Search</a>
 							<!-- if user != None and user.id != 'ANONYMOUS' -->
-							<a class="dropdown-item" href="{{ '/tool/query-comparison' | relative_url }}">Compare</a>
+							<a id="menu_tools_compare" class="dropdown-item" href="{{ '/tool/query-comparison' | relative_url }}">Compare</a>
 							<!-- endif  -->
 							<a class="dropdown-item" href="{{ '/tool/exploratory-search' | relative_url }}">Explore</a>
 						</div>
 					</li>
 					<!-- if user != None and user.id != 'ANONYMOUS' -->
-					<li class="nav-item dropdown">
+					<li id="menu_workspace" class="nav-item dropdown">
 						<a class="nav-link text-light dropdown-toggle" href="#" id="navbarDropdownWorkspace" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Workspace</a>
 						<div class="dropdown-menu bg-light" aria-labelledby="navbarDropdownWorkspace">
 							<a class="dropdown-item" href="{{ '/workspace/projects' | relative_url }}">User Projects <span id="project_count" class="badge badge-pill badge-primary">0</span></a>
 							<a class="dropdown-item" href="{{ '/workspace/projects/create' | relative_url }}">Create User Project +</a>
 							<!-- if user and user.attributes and user.attributes.allowPersonalCollections -->
-							<a class="dropdown-item" href="{{ '/workspace/collections' | relative_url }}">User Collections <span id="collection_count" class="badge badge-pill badge-primary">0</span></a>
-							<a class="dropdown-item" href="{{ '/workspace/collections/create' | relative_url }}">Add user collection +</a>
+							<a id="menu_workspace_user_collections" class="dropdown-item" href="{{ '/workspace/collections' | relative_url }}">User Collections <span id="collection_count" class="badge badge-pill badge-primary">0</span></a>
+							<a id="menu_workspace_user_collections_new" class="dropdown-item" href="{{ '/workspace/collections/create' | relative_url }}">Add user collection +</a>
 							<!-- endif  -->
 							<a class="dropdown-item" href="{{ '/documentation/howtos/jupyter-notebooks' | relative_url }}">Jupyter Notebooks</a>
 							<a class="dropdown-item" href="{{ '/workspace/projects?import_workspace=1' | relative_url }}">Import your old workspace</a>
@@ -52,19 +52,19 @@
 						<a class="nav-link" href="{{ '/contact' | relative_url }}">Contact</a>
 					</li>
 					<!-- if user != None and user.id != 'ANONYMOUS' -->
-					<li class="nav-item dropdown">
+					<li id="menu_account" class="nav-item dropdown">
 						<a class="nav-link text-light dropdown-toggle" href="#" id="navbarDropdownAccount" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Account</a>
 						<div class="dropdown-menu bg-light" aria-labelledby="navbarDropdownAccount">
 							<a class="dropdown-item" href="{{ '/logout' | relative_url }}">Logout</a>
 						</div>
 					</li>
 					<!-- else -->
-					<li class="nav-item">
-						<a class="nav-link text-light" href="#">Login</a>
+					<li  id="menu_login" class="nav-item">
+						<a class="nav-link text-light" href="{{ '/workspace/projects' | relative_url }}">Login</a>
 					</li>
 					<!-- endif -->
 				</ul>
-				<span class="navbar-text">[My username]</span>
+				<span id="menu_user_name" class="navbar-text">[My username]</span>
 			</div>
 		</nav>
 	</header>

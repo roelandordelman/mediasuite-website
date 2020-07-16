@@ -13,7 +13,7 @@
 			</div>
 		</div>
 		<div class="card-deck d-flex justify-content-center my-3">
-			<div class="card text-center">
+			<div id="tools_page_inspect" class="card text-center">
 				<a href="{{ '/tool/collection-inspector' | relative_url }}"><img src="{{ '/assets/img/icon-inspect.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Collection inspector"></a>
 				<div class="card-body">
 					<h5 class="card-title">Inspect</h5>
@@ -24,7 +24,7 @@
 					<a href="{{ '/tool/collection-inspector' | relative_url }}" class="card-link btn btn-light text-uppercase">Open</a>
 				</div>
 			</div>
-			<div class="card text-center">
+			<div id="tools_page_search" class="card text-center">
 				<a href="{{ '/tool/single-search' | relative_url }}"><img src="{{ '/assets/img/icon-search.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Basic faceted search"></a>
 				<div class="card-body">
 					<h5 class="card-title">Search</h5>
@@ -36,7 +36,7 @@
 				</div>
 			</div>
 			<!-- if user != None and user.id != 'ANONYMOUS' -->
-			<div class="card text-center">
+			<div id="tools_page_compare" class="card text-center">
 				<a href="{{ '/tool/query-comparison' | relative_url }}"><img src="{{ '/assets/img/icon-compare.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Comparative search"></a>
 				<div class="card-body">
 					<h5 class="card-title">Compare</h5>
@@ -48,7 +48,7 @@
 				</div>
 			</div>
 			<!-- endif  -->
-			<div class="card text-center">
+			<div id="tools_page_explore" class="card text-center">
 				<a href="{{ '/tool/exploratory-search' | relative_url }}"><img src="{{ '/assets/img/icon-explore.png' | relative_url }}" width="176" class="mx-auto mt-5" alt="Exploratory browser"></a>
 				<div class="card-body">
 					<h5 class="card-title">Explore</h5>
