@@ -1,5 +1,7 @@
 $(document).ready(function() {
 
+	// Browser recommendation
+
 	const isChrome = () => navigator.userAgent.indexOf('Chrome') > -1;
 	const cookieExists = (cookieName) => !!document.cookie.split(';').filter((item) => item.trim().startsWith(cookieName + '=')).length;
 	const setCookies = (cookieName) => {
