@@ -1,0 +1,7 @@
+---
+title: 500 Internal Server Error
+permalink: "/500.html"
+layout: default
+---
+
+The server did not seem to be able to serve the page you requested. Please try again at a later time.
