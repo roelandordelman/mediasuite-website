@@ -1,6 +1,6 @@
 ---
 title: Login failed
-layout: default
+layout: loginfailed
 ---
 
-The login server failed to log you in.
+The login server failed to log you in
