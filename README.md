@@ -24,7 +24,7 @@ cd mediasuite-website
 # Build the site on the preview server
 bundle exec jekyll serve
 
-# Now browse to http://127.0.0.1:4000/mediasuite-website/
+# Now browse to http://127.0.0.1:4000
 ```
 
 ## Deployment

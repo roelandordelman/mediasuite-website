@@ -96,8 +96,8 @@ defaults:
 version: v5.0
 email: 
 description: 
-baseurl: "/mediasuite-website"
-url: 
+baseurl: 
+url: https://mediasuite.clariah.nl
 twitter_username: mediasuite_nl
 markdown: kramdown
 exclude:
