@@ -3,6 +3,7 @@ title: Media Suite's HowTos
 permalink: "/documentation/howtos"
 position: 8
 layout: howtos
+menu: help
 ---
 
 Here you will find descriptions about how to accomplish specific tasks with the Media Suite. 

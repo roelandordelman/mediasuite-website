@@ -3,6 +3,7 @@ title: Release notes
 permalink: "/documentation/release-notes"
 position: 9
 layout: release-notes
+menu: help
 ---
 
 - [Version 4.14 (03-06-2020)](https://mediasuite.clariah.nl/documentation/release-notes/v4-14)

@@ -58,31 +58,37 @@ defaults:
     type: faq
   values:
     layout: faq
+    menu: help
 - scope:
     path: ''
     type: glossary
   values:
     layout: glossary
+    menu: help
 - scope:
     path: ''
     type: release-notes
   values:
     layout: release-notes
+    menu: help
 - scope:
     path: ''
     type: howtos
   values:
     layout: howtos
+    menu: help
 - scope:
     path: ''
     type: help
   values:
     layout: help
+    menu: help
 - scope:
     path: ''
     type: learn
   values:
     layout: tutorial
+    menu: learn
     author: 
     functionalities: []
     collections: []
