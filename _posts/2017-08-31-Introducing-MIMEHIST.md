@@ -16,7 +16,7 @@ Towards the end of February I received a grant for a video annotation project wh
 
 With help from Liliana Melgar, postdoctoral researcher at the University of Amsterdam, I wrote an application in the fall of 2016 focusing on developing an annotation environment for the Jean Desmet Collection of EYE Filmmuseum in Amsterdam. The project officially started in April and I am working on it together with Liliana Melgar who is in charge of defining the user requirements with me, as well as Willem Melder from the Netherlands Institute for Sound and Vision who works on data interoperability and Roeland Ordelman and Jaap Blom who are taking care of the software development and engineering within the project. After the project’s beginning we also had the great luck of being joined by Ivan Kisjes, who works as an archaeologist and programmer at the [University of Amsterdam’s CREATE project](http://www.create.humanities.uva.nl/who-we-are/), and who will be doing OCR work and text mining in our project.
 
-![](/mediasuite-website/uploads/desmet.jpg)
+![](/uploads/desmet.jpg)
 
 *Jean Conrad Ferdinand Theódore Desmet (1875-1956)*
 
@@ -34,7 +34,7 @@ In particular, I have been inspired by the [Digital Formalism](https://www.filmm
 
 Before these more recent projects, there have been several advanced efforts to conceive scholarly multimedia projects for film historiography in the past decades. In the 1990s, for instance, there was a rich experimentation with what was then referred to as hypermedia in CD-Rom formats in film studies, in the US in particular. Several groundbreaking projects were developed such as Lauren Rabinovitz’ *The Rebecca Project* (1995), the multimedia textbook *The Virtual Screening Room* developed at MIT by Henry Jenkins, Ben Singer, Ellen Draper and Janet Murray between 1992-1999, as well as Yuri Tsivian’s CD-Rom on pre-Soviet silent cinema *Immaterial Bodies: Cultural Anatomy of Early Russian Cinema* (2000). The latter was released by the University of Southern California’s Labyrinth project in its groundbreaking series of Cine-Discs edited by Marsha Kinder.
 
-![immaterial bodies](/mediasuite-website/uploads/immaterial-bodies.jpg)
+![immaterial bodies](/uploads/immaterial-bodies.jpg)
 
 *An original order form for Yuri Tsivian’s Cine-Disc Immaterial Bodies: A Cultural Anatomy of Early Russian Film (2000) which Marsha Kinder has uploaded to her great [website](http://www.marshakinder.com/index.html)*.
 
@@ -46,7 +46,7 @@ There are also several interesting texts written in the 1970s, which tend to be 
 
 In recent years, Bellour’s ideas to a large extent provided the fundament for the brilliant scholarly video annotation software Lignes de Temps, developed by the Pompidou Centre’s Institut de recherche et d’innovation. Unfortunately, this software is no longer being updated.
 
-![](/mediasuite-website/uploads/lignesdetempsyardbirds.jpg)
+![](/uploads/lignesdetempsyardbirds.jpg)
 
 *Screen cap from Lignes de Temps (here I was busy analyzing the fantastic concert scene with the Yardbirds in Antonioni’s Blow-Up (UK/I/US, 1966))*
 
@@ -64,7 +64,7 @@ There are several aspects in which we could say that our project wishes to creat
 
 First of all, we will facilitate and encourage segmentation and labelling of films as a basis for interpretation of, in particular, stylistic and formal aspects of films. The annotation environment resulting from MIMEHIST should ideally allow scholars to analyze digitized films from the Jean Desmet Collection – and audiovisual material more broadly – through a process of segmentation and labelling. It will allow scholars to engage in a process of coding through labelling, in a manner which we consider congruent with the "plumbing of depths" of film segmentation as suggested by Raymond Bellour; a subjective interpretation process which is not finite, but which may have different end points for different scholars because they observe and annotate different aspects of a film. By creating different layers and timelines in the CLARIAH Media Suite’s Segmenting Player scholars may categorize shot types, scenes and sequences following a personal coding scheme. Furthermore, scholars may also use such a coding procedure to get a better grasp on the structure of films, as suggested by Petric, in order to establish firm empirical evidence for their interpretation. MIMEHIST will not facilitate statistical functionalities however – for instance shot boundary detection – but may allow scholars to annotate and count film features as they like.
 
-![](/mediasuite-website/uploads/clariahsegmentingplayer.jpg)
+![](/uploads/clariahsegmentingplayer.jpg)
 
 *A first glimpse of the CLARIAH Media Suite Segmenting Player in its early development phase.*
 

@@ -19,7 +19,7 @@ other_url:
 
 # Media Suite Tutorial: Searching and Bookmarking for Television History
 
-![Searching and Bookmarking for Television History](/mediasuite-website/uploads/tut_searching_and_browsing_0.png)
+![Searching and Bookmarking for Television History](/uploads/tut_searching_and_browsing_0.png)
 
 Tutorial for CLARIAH Media Suite V 4.9  
 Tutorial made by Christian Olesen, April 2020
@@ -49,7 +49,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 1. Search tool Television Collection NISV
 
-![Search tool Television Collection NISV](/mediasuite-website/uploads/tut_searching_and_browsing_1.png)
+![Search tool Television Collection NISV](/uploads/tut_searching_and_browsing_1.png)
 
 * **Hover over "Tools" tab**
 * **Select "Search"** from the drop-down menu
@@ -59,7 +59,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 2. Find Items in the Television Collection I
 
-![Find Items in the Television Collection I](/mediasuite-website/uploads/tut_searching_and_browsing_2.png)
+![Find Items in the Television Collection I](/uploads/tut_searching_and_browsing_2.png)
 
 * You now need to **find items to enter into your corpus** relating to Hilbert van der Duim's participation in the World Championship in Oslo in 1981
 * **Try multiple search terms** relating to Hilbert van der Duim in various combinations. There are several relevant terms you can use. To get started, you may try the following:
@@ -70,7 +70,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 3. Find Items in the Television Collection II
 
-![Find Items in the Television Collection II](/mediasuite-website/uploads/tut_searching_and_browsing_3.png)
+![Find Items in the Television Collection II](/uploads/tut_searching_and_browsing_3.png)
 
 * In addition to putting together queries that target your search in the best possible way, you may also **use the search tool's facets to narrow down your results**. The facets are integrated into various functions of the search interface.
 * In the left hand column, you may use facets such as mediaType, Broadcaster, Genre or Keyword. Try to **play around with these facets** based on one of your queries to see which gives the most results relating to Hilbert van der Duim's participation in the World Championship in Oslo in 1981. 
@@ -80,7 +80,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 4. Store and retrieve queries
 
-![Store and retrieve queries](/mediasuite-website/uploads/tut_searching_and_browsing_4.png)
+![Store and retrieve queries](/uploads/tut_searching_and_browsing_4.png)
 
 * Once you have figured out which queries seem to work well, you may want to **save those queries to make sure you can explore the results further another time**
 * You may **save one or more query parameters (search term, facets, etc.) by clicking "Save Query"** button in the upper right corner
@@ -89,7 +89,7 @@ Before taking the steps described below, make sure that you have logged into the
 
 ### 5. Bookmark items
 
-![Bookmark items](/mediasuite-website/uploads/tut_searching_and_browsing_5.png)
+![Bookmark items](/uploads/tut_searching_and_browsing_5.png)
 
 * Once you have found items that you want to enter into your corpus you need to **bookmark those item to your project**
 * To bookmark a chosen item **click "Bookmark"**. This will open the bookmark window

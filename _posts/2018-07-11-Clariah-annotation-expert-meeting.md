@@ -22,7 +22,7 @@ In CLARIAH Plus (2019-2023), one of the aims is to increase the support for the 
 
 For this reason, expert software developers of audiovisual annotation tools gathered in Amsterdam during those two days in July 2018, to discuss the interoperability between their tools. One important distinction we made in this work was between data interoperability based on data models and facilitating interoperability at the semantic level (which we did not tackle in this meeting). As Walkowsky (2016) clarifies: “knowledge about structure and properties of annotations is one thing, knowledge about concepts which are used in annotations is another.”
 
-![Participants Annotation Expert Meeting](/mediasuite-website/uploads/2018-07-11_annotation-expert-meeting1.jpg "2018-07-11_annotation-expert-meeting1.jpg")
+![Participants Annotation Expert Meeting](/uploads/2018-07-11_annotation-expert-meeting1.jpg "2018-07-11_annotation-expert-meeting1.jpg")
 
 The participants of the expert meeting were the programmers of applications that are being developed in important projects in the Humanities where audio-visual media is at the center. The experts who participated in this meeting were:
 

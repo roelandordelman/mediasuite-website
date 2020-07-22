@@ -17,13 +17,13 @@ By: Tom Slootweg
 
 On April 12, 2018 the [Centre for Digital Humanities](https://www.rug.nl/research/research-let/expertisecentra/centre-for-digital-humanities/) of the University of Groningen and [CLARIAH](https://www.clariah.nl/) organized a workshop to explore the possibilities of video annotation for research in the Humanities. The workshop functioned as a follow-up to the session on video annotation held at the [Digital Humanities Day 2017](https://www.rug.nl/research/research-let/expertisecentra/centre-for-digital-humanities/dh-day/dhd-2017) (October 26-27), which also took place in Groningen. As co-organizer Susan Aasman, director of the Digital Humanities Centre, underlined: 'this day aims to provide a platform for comparing our notes on and experiences with video annotation. First we need to establish where we are and then we should discuss where we want to go to'. During the first hour it became clear that the use of video annotation tools is not necessarily confined to one field of research alone. Nor does their use always invite one "gold standard".
 
-![Video annotation workshop](/mediasuite-website/uploads/2018-04-12_annotation-workshop-intro.png)
+![Video annotation workshop](/uploads/2018-04-12_annotation-workshop-intro.png)
 
 Video annotation workshop
 
 The start of the workshop featured four fifteen-minute presentations that showcased the highly interdisciplinary interest in video annotation as a viable research tool. Two of the four presentations were related to [CLARIAH research pilot projects](https://www.clariah.nl/projecten/research-pilots) aligned with novel ways of doing media historical research. Rob Wegter, research assistant to the [M&M pilot project](https://www.clariah.nl/projecten/research-pilots/m-m/m-m), outlined the project's use of the integrated video annotation functionality of the CLARIAH Media Suite; the digital research infrastructure provided by CLARIAH through which media scholars have access to various collections of audiovisual archives and other cultural heritage institutions. A particularly challenging aspect of the project's deployment of video annotation, as Wegter explained, relates to its use for more traditional hermeneutic research.
 
-![Video annotation workshop participants](/mediasuite-website/uploads/2018-04-12_annotation-workshop-group.png)
+![Video annotation workshop participants](/uploads/2018-04-12_annotation-workshop-group.png)
 
 Video annotation workshop participants
 
@@ -45,7 +45,7 @@ Based on the discussions that took place during the "[Collecting, Annotating & A
 Prof. Gisela Redeker, concluding the first part of the workshop, devoted her presentation to the practical use of video annotation tools for the description and evaluation of multimodal instructions deployed in educational first-aid videos. This project, which is part of the [PAT Work Bench project](https://aclanthology.info/papers/W16-4018/w16-4018) (PI Ielka van der Sluis), uses the [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) software package, which enables highly precise, multi-tier annotations of the video data under scrutiny.
 
 
-![](/mediasuite-website/uploads/2018-04-12_annotation-workshop-elan.png)
+![](/uploads/2018-04-12_annotation-workshop-elan.png)
 
 "Code book" for annotating in ELAN
 

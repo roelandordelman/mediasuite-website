@@ -43,7 +43,7 @@ Considered in connection to Paredes' presentation, Reyes' work seemed to underli
 
 In this part of the workshop, Liliana and I also presented on our work in CLARIAH. Liliana presented the Media Suite and the research pilot projects, and we made a short demo of the video annotation functionalities that are being built as part of the CLARIAH research infrastructure. This was followed by a presentation of the MIMEHIST project which has previously been discussed in depth on this blog.
 
-![](/mediasuite-website/uploads/img_8579.jpg)
+![](/uploads/img_8579.jpg)
 
 *Closing expert panel discussion at the Colloquium "Visualization Strategies for the Digital Humanities" in Zürich.*
 

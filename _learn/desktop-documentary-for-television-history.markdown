@@ -21,7 +21,7 @@ other_url:
 
 # Media Suite Tutorial: Desktop Documentary for Television History
 
-![Desktop Documentary for Television History](/mediasuite-website/uploads/tut_desktop_documentary_0.png)
+![Desktop Documentary for Television History](/uploads/tut_desktop_documentary_0.png)
 
 Tutorial for CLARIAH Media Suite V 4.9, May 2020  
 Tutorial made by Christian Olesen, May 2020
@@ -56,7 +56,7 @@ In addition to the approach of the desktop documentary, this tutorial also suppo
 
 #### a. Screen recording using Mediasite
 
-![Screen recording using Mediasite](/mediasuite-website/uploads/tut_desktop_documentary_1.png)
+![Screen recording using Mediasite](/uploads/tut_desktop_documentary_1.png)
 
 Before making your video clips you need to know how to record your desktop. If you use Mediasite you need to follow the steps outlined below to start and save a screen recording: 
 
@@ -69,7 +69,7 @@ Before making your video clips you need to know how to record your desktop. If y
 
 #### b. Screen recording using Quicktime
 
-![Screen recording using Quicktime](/mediasuite-website/uploads/tut_desktop_documentary_2.png)
+![Screen recording using Quicktime](/uploads/tut_desktop_documentary_2.png)
 
 Before making your video clips you need to know how to record your desktop. If you use Quicktime you need to follow the steps outlined below to start and save a screen recording: 
 
@@ -78,7 +78,7 @@ Before making your video clips you need to know how to record your desktop. If y
 
 ### 2. Recording your searches in the Media Suite and on YouTube
 
-![Recording your searches in the Media Suite and on YouTube](/mediasuite-website/uploads/tut_desktop_documentary_3.png)
+![Recording your searches in the Media Suite and on YouTube](/uploads/tut_desktop_documentary_3.png)
 
 * In order to record your search process in the Media Suite you first need to log in to the Media Suite, create and set an active user project, choose the Media Suite "Search" tool and set the collection to Television Collection. Should you need an introduction or reminder on how to take these steps, you may consult the tutorial "Searching and Bookmarking for Television History" which may be accessed via this [link](https://docs.google.com/document/d/1XJyj50C9IT38RPIcskCgRmzlzJCs9o-psiVm6mQ4orE/edit).
 * Start a screen recording in either Mediasite or Quicktime
@@ -90,7 +90,7 @@ Before making your video clips you need to know how to record your desktop. If y
 
 #### a. Recording bookmarking of content in the Media Suite
 
-![Recording bookmarking/saving of content in the Media Suite and on YouTube](/mediasuite-website/uploads/tut_desktop_documentary_4.png)
+![Recording bookmarking/saving of content in the Media Suite and on YouTube](/uploads/tut_desktop_documentary_4.png)
 
 After recording your searches in the Media Suite and on YouTube, you should record and compare the different bookmarking and saving options offered by the two platforms. The aim is that you understand how the design of the different platforms allow you to save and retrieve items at a later point and invite different viewing and analysis modalities.
 
@@ -104,7 +104,7 @@ First make a recording of the bookmarking functionality in the Media Suite (Shou
 
 #### b. Recording saving of content on YouTube
   
-![Recording saving of content on YouTube](/mediasuite-website/uploads/tut_desktop_documentary_5.png)
+![Recording saving of content on YouTube](/uploads/tut_desktop_documentary_5.png)
 
 After having recorded the bookmarking of items in the Media Suite, you should record the saving options on YouTube so as to be able to compare these functions of the platform at a later stage.
 
@@ -120,7 +120,7 @@ In order to do so, you should follow the steps outlined below:
 
 #### a. Recording annotation function in the Media Suite
   
-![Recording annotation function in the Media Suite](/mediasuite-website/uploads/tut_desktop_documentary_6.png)
+![Recording annotation function in the Media Suite](/uploads/tut_desktop_documentary_6.png)
 
 After having recorded the bookmarking of items in the Media Suite and on YouTube, you now need to record the annotation and comment functionalities of these two platforms so as to be able to compare them, beginning with the Media Suite.
 
@@ -135,7 +135,7 @@ In order to do so, you should follow the steps outlined below:
 
 #### b. Recording comment function on YouTube
   
-![Recording comment function on YouTube](/mediasuite-website/uploads/tut_desktop_documentary_7.png)
+![Recording comment function on YouTube](/uploads/tut_desktop_documentary_7.png)
 
 After having recorded the annotation of items in the Media Suite, you now need to record the comment functionality on YouTube.
 
@@ -162,7 +162,7 @@ This step discusses how to do this in both Mediasite and iMovie:
 
 #### a. Editing desktop documentary clips in Mediasite
 
-![Editing desktop documentary clips in Mediasite](/mediasuite-website/uploads/tut_desktop_documentary_8.png)
+![Editing desktop documentary clips in Mediasite](/uploads/tut_desktop_documentary_8.png)
 
 * Before completing this step, make sure that you have familiarized yourself with editing in Mediasite. The editing instructions for Mediasite (in Dutch) can be found via this [link](https://mediasite.sites.uu.nl/handleiding-my-mediasite/#g10) (see in particular section 3 "De opname verwerken", the screen grab above shows an example from this section of the manual).
 * Once you are familiar with editing in Mediasite, you should create a text slide that you can import into Mediasite. The text slide should explain what your clip shows and what you highlight in it. The content of the slide may be very simple and descriptive, for example something in the vein of "Searching for Koot en Bie in the Media Suite". The slide text may also be more elaborate and explain the different steps taken shown in the video, for instance something in the vein of: "The following clip shows our searches for different shows created by Van Kooten en De Bie, first we searched for Hadimassa, then for Simplisties Verbond")

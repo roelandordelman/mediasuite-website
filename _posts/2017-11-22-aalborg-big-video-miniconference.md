@@ -17,7 +17,7 @@ During three days in November 2017 around thirty researchers and practitioners i
 
 The main audience of the conference were experts in the field of ethnomethodological conversation analysis (EMCA), but also researchers from different fields such as ethno-cinema, media studies, and digital culture, who were attracted by the interesting, mostly qualitative approach to video analysis of this conference (and they were very welcome to share their views).
 
-![Participants (presenters) of the "BigVideo sprint and mini-conference" (Photo: Mathias Broth)](/mediasuite-website/uploads/2017-11-22_aalborg-big-video-group.jpg)
+![Participants (presenters) of the "BigVideo sprint and mini-conference" (Photo: Mathias Broth)](/uploads/2017-11-22_aalborg-big-video-group.jpg)
 
 _Participants (presenters) of the "BigVideo sprint and mini-conference" (Photo: Mathias Broth)_ 
 
@@ -25,7 +25,7 @@ The purpose was to work around the idea of putting forward a "manifesto" for inn
 
 The opening keynote by Paul McIlvenny and Jacob Davidsen summarized their collaborative work on experimenting with 360-degree cameras, stereoscopic cameras, multi-track video and audio streams, multi-track subtitling and video annotation. More references and illustrations of their work can be seen in the [BigVideo Manifesto](http://nordicom.gu.se/system/tdf/kapitel-pdf/mcilvenny_davidsen.pdf?file=1&type=node&id=39006), published at Nordicom.
 
-![Keynote by Paul McIlvenny and Jacob Davidsen](/mediasuite-website/uploads/2017-11-22_aalborg-big-video-keynotepaul.jpg)
+![Keynote by Paul McIlvenny and Jacob Davidsen](/uploads/2017-11-22_aalborg-big-video-keynotepaul.jpg)
 
 _Keynote by Paul McIlvenny and Jacob Davidsen_
 
@@ -33,7 +33,7 @@ The other keynote speakers of the conference spoke about their perspectives on u
 
 For our work in the CLARIAH project, the most interesting and awaited keynote was by Adam Fouse (Aptima, USA), an expert on "interactive visualization of complex data" and on the analysis of time-based media. He is the developer and maintainer of the "[Cronoviz](http://www.chronoviz.com/)" tool, a rich environment for the visualization, navigation and analysis of time-based media and accompanying data with a multi-modal approach. This tool facilitates the use of multiple, synchronized sources, the integration of data captured by sensor devices, geographic positioning, and the integration of notes taken during field work or from observations during the analysis.
 
-![Adam Fouse presenting Cronoviz (slide on its application domains)](/mediasuite-website/uploads/2017-11-22_aalborg-big-video-adamfousecronoviz.jpg)
+![Adam Fouse presenting Cronoviz (slide on its application domains)](/uploads/2017-11-22_aalborg-big-video-adamfousecronoviz.jpg)
 
 _Adam Fouse presenting Cronoviz (slide on its application domains)_
 
@@ -43,7 +43,7 @@ One of the most surprising experiences of this conference to me, was to get acqu
 
 Our contribution, presented by Jaap, myself, and Rob Wegter (media scholar who participates in one of the CLARIAH pilot projects), consisted of explaining the CLARIAH project, and the development of an annotation tool for video, audio, images and text for that project. Jaap explained his previous prototypes that led to the initial ideas for the CLARIAH annotation tool, and Rob explained how he is using the initial versions of that tool for doing the analysis of documentary films.
 
-![Jaap Blom, Rob Wegter, Liliana Melgar representing CLARIAH at the BigVideo Conference](/mediasuite-website/uploads/2017-11-22_aalborg-big-video-clariah-annotation-presentation.png)
+![Jaap Blom, Rob Wegter, Liliana Melgar representing CLARIAH at the BigVideo Conference](/uploads/2017-11-22_aalborg-big-video-clariah-annotation-presentation.png)
 
 _Jaap Blom, Rob Wegter, Liliana Melgar representing CLARIAH at the BigVideo Conference_
 

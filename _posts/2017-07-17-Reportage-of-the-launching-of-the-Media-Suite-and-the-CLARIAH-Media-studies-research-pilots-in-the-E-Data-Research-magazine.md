@@ -9,7 +9,7 @@ introduction: The third issue of the “E-Data & Research” magazine this year 
   media studies team celebrated the debut of the…
 ---
 
-![E-data article](/mediasuite-website/uploads/edata-reportage-655x480.jpeg)
+![E-data article](/uploads/edata-reportage-655x480.jpeg)
 
 Article on "E-data & Research magazine".
 

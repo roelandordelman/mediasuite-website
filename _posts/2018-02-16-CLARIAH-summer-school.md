@@ -24,13 +24,13 @@ In the summer school, participants will follow tutorials about using the CLARIAH
 ## Keynote speakers
 
 
-![Eric Hoyt](/mediasuite-website/uploads/2018-02-16_eric-hoyt.jpg?raw=true)
+![Eric Hoyt](/uploads/2018-02-16_eric-hoyt.jpg?raw=true)
 
 [Erik Hoyt](https://commarts.wisc.edu/people/ehoyt) (Keynote speaker, July 2)
 
 Digital media scholar Erik Hoyt, lead developer of [Lantern](http://lantern.mediahist.org), the Media History Digital Library's search platform, and [Arclight](http://search.projectarclight.org), a data analytics and visualization app for the MHDL's collection. He will tell the story of the MHDL and will share some brand new research!
 
-![Dana Mustata](/mediasuite-website/uploads/2018-02-16_dana_mustata.jpg?raw=true)
+![Dana Mustata](/uploads/2018-02-16_dana_mustata.jpg?raw=true)
 
 [Dana Mustata](https://www.rug.nl/staff/d.mustata/) (Keynote speaker, July 6)
 

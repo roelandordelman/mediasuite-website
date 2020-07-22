@@ -30,7 +30,7 @@ The REFI initiative has produced two standards:
 - The first product was a "codebook exchange" format, launched in Montreal in March 2018. This format allows users of QDA packages to export their codebooks and import them into any of the programs that implement the format (more about codebooks and the list of software packages which are compatible is at the [REFI website](https://www.qdasoftware.org/products-codebook-exchange/)).
 - The second product, launched on March 18, 2019 in Rotterdam (see photo with the proud group) is the "project exchange" format, which facilitates the exporting and importing of the main components of a research project done by a researcher with one of the participating software packages. As explained in the [REFI website](https://www.qdasoftware.org/products-codebook-exchange/), those components include, among others: the source documents that are analyzed, the segments in those documents that researchers have identified and annotated, the codes and annotations  they have assigned to these segments, memos with analytical notes, the links between codes, segments or memos, the cases, the sets/groups of entities, the visual representations of linked entities in the project, and user information.
 
-​![Screemshot](/mediasuite-website/uploads/Screen_Shot_2019-03-20.png)	
+​![Screemshot](/uploads/Screen_Shot_2019-03-20.png)	
 
 *(Source: REFI website)*
 
