@@ -24,7 +24,7 @@ It is important to have clear that the collection inspector does not give search
    - If you want to compare the completeness of two or more metadata fields
    - If you want to check the metadata completeness of a section of the collection (e.g., for resources of a certain media type)
 
-   > If you are interested in the completeness of the ASR (automatic speech recognition transcripts) of the Netherlands Institute for Sound and Vision's audio-visual collection, visit [this page](<https://sites.google.com/beeldengeluid.nl/stats-beeldengeluid-nl/speech-recognition?pli=1>).
+   > If you are interested in the completeness of the ASR (automatic speech recognition transcripts) of the Netherlands Institute for Sound and Vision's audio-visual collection, visit [this page](https://sites.google.com/beeldengeluid.nl/stats-beeldengeluid-nl/speech-recognition?pli=1).
 
 ### Metadata dictionaries
 
@@ -32,10 +32,6 @@ Because the Media Suite has been built following the principles of metadata tran
 
 In Version 3, we provide an example of a good practice in documenting the metadata schemas for the users. This is done via "metadata dictionaries," which provide definitions of the metadata field (regardless of their labels) when they are used in the Media Suite. 
 
-We have integrated this dictionary for one collection (The Netherlands Institute for Sound and Vision). The institution was responsible for creating a file with the technical label of the field plus a user-friendly label and a user-oriented definition of the field. These data was integrated into the Media Suite (you can observe it, for instance, when you click in the drop-down menu in the [Inspector tool](http://mediasuite.clariah.nl/documentation/howtos/collection-inspector)).
+We have integrated this dictionary for one collection (The Netherlands Institute for Sound and Vision). The institution was responsible for creating a file with the technical label of the field plus a user-friendly label and a user-oriented definition of the field. These data was integrated into the Media Suite (you can observe it, for instance, when you click in the drop-down menu in the Inspector tool.
 
 The CLARIAH WP5 team encourages other providing institutions to create and publish these metadata dictionaries as part of their metadata schemas and documentation.
-
-
-
-*(Last update: November 5, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

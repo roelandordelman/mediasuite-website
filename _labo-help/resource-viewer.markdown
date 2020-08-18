@@ -24,8 +24,8 @@ This is the "Resource viewer." In this help pages you will learn how to:
 
 ### <a name="play-view"></a> Play and view media
 
-- Play and view the media resources that are available via the Media Suite (for more information about what resources can be viewed or played, read the [FAQ section: Can I play/view all the sources that I find via the Media Suite?](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>)
-- If the resource has undergone the ASR process [(see more information here)](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments), you will find an interactive transcript to navigate the audio or video file
+- Play and view the media resources that are available via the Media Suite (for more information about what resources can be viewed or played, read the [FAQ section: Can I play/view all the sources that I find via the Media Suite?](/documentation/faq/can-play-view)
+- If the resource has undergone the ASR process [(see more information here)](/documentation/data/automatic-enrichments), you will find an interactive transcript to navigate the audio or video file
 
 ### <a name="metadata"></a> Understand the metadata block
 
@@ -53,9 +53,4 @@ The control buttons are still under development, but the hotkeys allow you to cr
 - SHIFT+e (open annotation tool in a pop-up)
 - SHIFT+n (new segment)
 
-You can find more information about the annotation tool and other keyboard shorcuts [here](http://mediasuite.clariah.nl/documentation/tools/annotate).
-
-
-
-*(Last update: July, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
-
+You can find more information about the annotation tool and other keyboard shorcuts [here](/documentation/tools/annotate).

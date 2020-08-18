@@ -13,7 +13,3 @@ The Media Suite supports scholars in bookmarking items or fragments (for creatin
 - **Metadata cards**: a very powerful feature of the annotation functionality is the possibility to add custom metadata templates (the properties are decided by the user), and values to those templates. These metadata can be used to describe the items or fragments more in detail, for further processing via the exporting facilities.
 
 In Version 3 we support manual annotation only. Future versions will support automatic annotation (mainly for "classification" tasks), and will bring significant improvements in vocabulary and linking services.
-
-
-
-*(Last update: July, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

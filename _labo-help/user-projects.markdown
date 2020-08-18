@@ -14,7 +14,7 @@ The Workspace supports the following functions:
 
 In the Figure below, an overview of these functions is presented:
 
- <img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/workspace.jpg?raw=true" width="600px" />
+![](/uploads//workspace.jpg)
 
 ## User Projects
 
@@ -30,7 +30,7 @@ In the Media Suite, for instance, a researcher can create a user project for a t
 
 In the **User Project page** in the Workspace you see the list of your personal user projects (empty for first time users). You can:
 
-- [Create a new user project](<http://mediasuite.clariah.nl/documentation/howtos/user-projects/create>).
+- [Create a new user project](/documentation/howtos/user-projects/create).
 - View the list of projects with their name, description, number of bookmarks (items in your corpus), project owner, privacy level (in version 3 all projects are "private" by default), your access rights (in version 3 the user is "administrator" for all projects created by her/him), and the creation date.
 - Open a user project, delete it, or export it.
 

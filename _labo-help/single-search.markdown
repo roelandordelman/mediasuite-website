@@ -25,7 +25,7 @@ In this help menu you will learn How To:
 
 ### <a name="data"></a>Know which data used by the Search tool
 
-This tool uses all the data and enrichments available via the Media Suite. See [Data page](http://mediasuite.clariah.nl/data) for more information.
+This tool uses all the data and enrichments available via the Media Suite. See [Data page](/data) for more information.
 
 ### <a name="search-boolean"></a>Use search expressions (Boolean operators)
 
@@ -90,9 +90,9 @@ Note: Future work includes supporting proximity parameters.
 
 ### <a name="search-layers"></a> Search layers
 
-<img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/search-layers.png?raw=true" />
+![](/uploads/search-layers.png)
 
-To facilitate more precise queries, users can use "search layers," which are aggregations of metadata fields. At this moment (version 4) we support three layers for all collections:
+To facilitate more precise queries, users can use "search layers", which are aggregations of metadata fields. At this moment (version 4) we support three layers for all collections:
 
 - **All**: searches in all the metadata and automatic enrichments at the time
 - **Archive's metadata**: searches only in the mostly manually generated metadata (archival descriptions and subject/content metadata). These are the common aggregations for all collections:
@@ -105,7 +105,7 @@ To facilitate more precise queries, users can use "search layers," which are agg
 
 ### <a name="field-cluster"></a> Search per field (field cluster selector)
 
-<img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/search-field-clusters.png?raw=true" />
+![](/uploads/search-field-clusters.png)
 
 Users can determine in which field or group of fields they want to search for their query expression. For example, a user may want to search for a specific character's name (e.g., Mies Bouwman). In that case:
 
@@ -138,7 +138,7 @@ The timeline visualisation shows a histogram or a line chart with the amount of 
 
 - Please also note that each record possibly can have multiple occurrences of the selected date field (this happens clearly in the audio-visual collections of The Netherlands Institute for Sound and Vision, e.g., a rebroadcast), making it possible that there are more dates found that the number of search results. The number of cases can be seen in the "Outside range" summary in the chart panel:
 
-  <img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/search-date-ranges.jpg?raw=true" />
+![](/uploads/search-date-ranges.jpg)
 
 ### <a name="facets"></a> Filter using facets
 
@@ -167,17 +167,14 @@ The timeline visualisation shows a histogram or a line chart with the amount of 
 
 ### <a name="saved-queries"></a> Save your query
 
-* Save the query paramenters: the Search tool allows users to store the queries for further use giving them a name. See [Saved queries](http://mediasuite.clariah.nl/documentation/workspace/user-projects/queries) section for more details.
+* Save the query paramenters: the Search tool allows users to store the queries for further use giving them a name. See [Saved queries](/documentation/workspace/user-projects/queries) section for more details.
 
 ### <a name="bookmarking"></a> Bookmark search results
 
-* Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](http://mediasuite.clariah.nl/documentation/workspace/user-projects/bookmarks) in the Documentation.
+* Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](/documentation/workspace/user-projects/bookmarks) in the Documentation.
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/2fVNz6eh6Sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 > **Please use our [Public forum](https://gitter.im/CLARIAH-media-studies/Lobby) if you miss content in this page or if you find any issues while using the Media Suite.**
-
-*(Last update: March 7, 2019)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
-

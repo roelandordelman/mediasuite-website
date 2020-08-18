@@ -6,15 +6,15 @@ The Media Suite offers a tool for Exploratory search. This tool offers the possi
 
 ### Background
 
-This tool is the integrated version in the Media Suite of the tool [DIVE+](http://mediasuite.clariah.nl/documentation/glossary/dive). See also the [FAQ section: How has the Media Suit been built?](http://mediasuite.clariah.nl/documentation/faq/how-is-built)
+This tool is the integrated version in the Media Suite of the tool [DIVE+](/documentation/glossary/dive). See also the [FAQ section: How has the Media Suit been built?](/documentation/faq/how-is-built)
 
-Leading scholars from the CLARIAH research pilot project [NarDis](https://clariah.nl/en/projects/research-pilots/granted-pilot-research-projects/nardis) (see also the [FAQ section: What are the CLARIAH research pilot projects?](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots) have investigated the use of this tool in humanities research, proposing the terms "browsing path" and "search narrative" to denote the storage of the "journey" followed by a user of the tool while navigating ("diving") into the interconnected resources and entities.
+Leading scholars from the CLARIAH research pilot project [NarDis](https://clariah.nl/en/projects/research-pilots/granted-pilot-research-projects/nardis) (see also the [FAQ section: What are the CLARIAH research pilot projects?](/documentation/faq/what-are-research-pilots) have investigated the use of this tool in humanities research, proposing the terms "browsing path" and "search narrative" to denote the storage of the "journey" followed by a user of the tool while navigating ("diving") into the interconnected resources and entities.
 
 ### Data
 
-*This tool uses only one part of the data available via the Media Suite*. Since working with linked open data in CLARIAH is an ongoing effort (see the [FAQ section: How does the Media Suite make the data available?](http://mediasuite.clariah.nl/documentation/faq/how-data-is-made-available)), the Media Suite offers in Version 4 (December 2018) only one experimental collection as linked open data, the Open Images collection from the Netherlands Institute for Sound and Vision"[^1]. Only this collection can be accessed via the "Browse and Explore" tool at this point.
+*This tool uses only one part of the data available via the Media Suite*. Since working with linked open data in CLARIAH is an ongoing effort (see the [FAQ section: How does the Media Suite make the data available?](/documentation/faq/how-data-is-made-available)), the Media Suite offers in Version 4 (December 2018) only one experimental collection as linked open data, the Open Images collection from the Netherlands Institute for Sound and Vision"[^1]. Only this collection can be accessed via the "Browse and Explore" tool at this point.
 
-[^1]: You can read more about this collection in the Media Suite's [CKAN registration system](.http://mediasuitedata.clariah.nl/dataset/open-beelden-beeldengeluid)
+[^1]: You can read more about this collection in the Media Suite's [CKAN registration system](http://mediasuitedata.clariah.nl/dataset/open-beelden-beeldengeluid)
 
 ### How to use
 
@@ -22,7 +22,7 @@ Steps:
 
 1. First, log in to the Media Suite.
 
-2. In the "Tools" menu, choose "Explore." There are several links to access the [DIVE+](http://mediasuite.clariah.nl/documentation/glossary/dive) instances, the version explained here is the tool you access in: http://mediasuite.clariah.nl/tool/exploratory-search.
+2. In the "Tools" menu, choose "Explore." There are several links to access the [DIVE+](/documentation/glossary/dive) instances, the version explained here is the tool you access in: http://mediasuite.clariah.nl/tool/exploratory-search.
 
 3. You can start exploring by entering keywords into the search box, by choosing "example searches" under the search box, or by selecting "popular entities" or "recent entities." 
 
@@ -48,14 +48,10 @@ Steps:
    - Bookmark entities in this path (use the star icon on the right) 
      - ***Note**:* *Please note that there are two bookmarking options*: 
        - (1) the bookmark button in the browsing interface and in the "Exploration path": this bookmarks items and entities in your path (these items are not saved to your Workspace/Bookmarks, but to your "Exploration path" only. 
-       - (2) the bookmark button that you see when you view a media object in the [Resource viewer](http://mediasuite.clariah.nl/documentation/howtos/resource-viewer): If you bookmark the resources here, they will be saved to your Workspace/Bookmarks).
+       - (2) the bookmark button that you see when you view a media object in the [Resource viewer](/documentation/howtos/resource-viewer): If you bookmark the resources here, they will be saved to your Workspace/Bookmarks).
    - Add user comments or notes, by clicking on the three vertical dots on the left side of the bookmark icon. These comments are inserted between the entities, they allow you to add commentary to the path, so you can build a "narrative" of your exploration.
    - You can also clear your path, save it, load it, or export it. For these actions, click on the three vertical dots on the right side of the Exploration path menu:
-     - If you "Save" your path, you get the option to save it to the Media Suite [Workspace](http://mediasuite.clariah.nl/documentation/howtos/workspace). If you click on this option, you will see a pop-up window asking you to select a [User project](http://mediasuite.clariah.nl/documentation/howtos/user-projects). If you haven't created a User project, go first to the Workspace and create one.
+     - If you "Save" your path, you get the option to save it to the Media Suite [Workspace](/documentation/howtos/workspace). If you click on this option, you will see a pop-up window asking you to select a [User project](/documentation/howtos/user-projects). If you haven't created a User project, go first to the Workspace and create one.
      - Once you have saved your path, you can visit it in the Media Suite Workspace, going to the User project where you created it, to the tab "Tool sessions."
-     - In the Workspace, you can also find your [bookmarks](http://mediasuite.clariah.nl/documentation/howtos/user-projects/bookmarks) (in the "Bookmarks" tab), besides the fragments and annotations that you added to the media objects and fragments using the Resource viewer.
+     - In the Workspace, you can also find your [bookmarks](/documentation/howtos/user-projects/bookmarks) (in the "Bookmarks" tab), besides the fragments and annotations that you added to the media objects and fragments using the Resource viewer.
      - You can also "Load" (recreate) and "Export" your exploration path.
-
-
-
-*(Last update: November 5, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
