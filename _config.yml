@@ -35,11 +35,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-  labo-help-user-projects:
-    title: Labo help user projects
-    output: false
-  labo-help-user-content:
-    title: Labo help user projects
+  labo-help:
+    title: Labo help 
     output: false
 defaults:
 - scope:
