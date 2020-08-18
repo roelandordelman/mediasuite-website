@@ -3,17 +3,17 @@ title: Troubleshooting
 position: 3
 ---
 
-Here we list some reported problems by users of the Media Suite, and their solutions. If you find other problems or issues, please [let us know](http://mediasuite.clariah.nl/contact).
+Here we list some reported problems by users of the Media Suite, and their solutions. If you find other problems or issues, please [let us know](/contact).
 
 **Note!** Please keep in mind that the Media Suite is only tested in **Google Chrome** for now.
 
 ## Playout not working
 
-*Please remember to read also the [FAQ](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>) about which sources can be viewed/played via the Media Suite.*
+*Please remember to read also the [FAQ](/documentation/faq/can-play-view) about which sources can be viewed/played via the Media Suite.*
 
 This happens if you are logged into the Media Suite and an audio-visual resource from the Sound and Vision collection is supposed to play, i.e., you get a player window, but the resource does not play, i.e., if you get something like this):
 
-![troubleshooting1_prevented_setting_cookies](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/troubleshooting1_resource_viewer_not_working.jpg?raw=true)
+![troubleshooting1_prevented_setting_cookies](/uploads/troubleshooting1_resource_viewer_not_working.jpg)
 
 There are at least two ways to solve it:
 
@@ -30,7 +30,7 @@ There are at least two ways to solve it:
 
 - Click on the icon with the shape of a cookie where you get the message "This page was prevented from setting cookies" (see below):
 
-  ![troubleshooting1_resource_viewer_not_working](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/troubleshooting1_prevented_setting_cookies.jpg?raw=true)
+  ![troubleshooting1_resource_viewer_not_working](/uploads/troubleshooting1_prevented_setting_cookies.jpg)
 
 - Go to "Show cookies and other site data"
 
@@ -42,4 +42,4 @@ There are at least two ways to solve it:
 
 - Click on "Reload"
 
-Now you should be able to play the audio or video. Otherwise, please [Contact us](http://mediasuite.clariah.nl/contact).
+Now you should be able to play the audio or video. Otherwise, please [Contact us](/contact).

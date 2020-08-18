@@ -3,7 +3,7 @@
 Saved queries
 ---
 
-When using the Search toolof the Media Suite, users create queries using different search parameters (e.g., date filters). The Media Suite allows users to save these queries for further reference in their Workspace, and for comparing results using the Compare tool.
+When using the Search tool of the Media Suite, users create queries using different search parameters (e.g., date filters). The Media Suite allows users to save these queries for further reference in their Workspace, and for comparing results using the Compare tool.
 
 The query parameters stored are the following:
 

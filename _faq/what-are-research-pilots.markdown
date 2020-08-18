@@ -14,4 +14,4 @@ The[ CLARIAH Research pilot projects](https://clariah.nl/projecten/research-pilo
 
 
 
-*(Last update: October 2, 2018)* *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
+*(Last update: October 2, 2018)* *If you have any questions, please [contact us]( /contact ).*

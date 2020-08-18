@@ -19,7 +19,7 @@ The Netherlands Institute for Sound and Vision is the tradename of the Foundatio
 
 ### How do we collect personal data?
 
-We get the personal data that we process on our website visitors from our identity providers when you log in on our website. You can find a list of all identity providers [here](http://mediasuite.clariah.nl/saml/login/).
+We get the personal data that we process on our website visitors from our identity providers when you log in on our website. You can find a list of all identity providers [here](/documentation/identity-providers).
 
 ### Do we also use cookies?
 
@@ -94,4 +94,4 @@ In addition, you can also:
 
 If you have questions about our processing of your personal data, or if you want to make use of one or more of your legal rights, then contact:
 
-- Our privacy officer, who is available via: [Webmaster](mailto:privacy@beeldengeluid.nl)
+- Our privacy officer, who is available via: [privacy@beeldengeluid.nl](mailto:privacy@beeldengeluid.nl)

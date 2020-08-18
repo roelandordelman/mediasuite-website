@@ -5,6 +5,7 @@ collections:
   posts:
     title: Blog
     output: true
+    permalink: "/blog/:year/:month/:day/:title"
   carousel:
     title: Carousel
     output: false

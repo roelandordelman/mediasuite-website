@@ -3,11 +3,11 @@ title: Who are the users of the Media Suite?
 position: 7
 ---
 
-The Media Suite is being developed together with media scholars and oral historians as part of the CLARIAH infrastructure project (See: [Who develops the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/who-develops)). It was intensively used and improved during the [CLARIAH research pilot projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots). It has also been was used at the [CLARIAH summer school in 2018](https://clariah.github.io/mediasuite-blog/blog/2018/10/01/Clariah-Media-Studies-Summer-School-report), where film, television, new media scholars, linguists, oral historians, sociologists and archivists, among others, used the Media Suite in real research projects.
+The Media Suite is being developed together with media scholars and oral historians as part of the CLARIAH infrastructure project (See: [Who develops the Media Suite?](/documentation/faq/who-develops)). It was intensively used and improved during the [CLARIAH research pilot projects](/documentation/faq/what-are-research-pilots). It has also been was used at the [CLARIAH summer school in 2018](https://clariah.github.io/mediasuite-blog/blog/2018/10/01/Clariah-Media-Studies-Summer-School-report), where film, television, new media scholars, linguists, oral historians, sociologists and archivists, among others, used the Media Suite in real research projects.
 
 The Media Suite aims to serve the needs of a wide variety of scholars (e.g., film, television, and other media scholars, oral historians, political historians) interested in cultural data and audiovisual heritage of Dutch history and society.
 
-> **Let us know in our [Public forum](http://mediasuite.clariah.nl/documentation/forum) if you have any suggestions to make the Media Suite support you better in your research!**
+> **Let us know in our [Public forum](/documentation/forum) if you have any suggestions to make the Media Suite support you better in your research!**
 
 
 
@@ -34,4 +34,4 @@ These are some commens about the media suite by its users:
 
 ​	
 
-*(Last edit: March 7, 2019)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
+*(Last edit: March 7, 2019)*. *If you have any questions, please [contact us]( /contact ).*

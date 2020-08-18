@@ -6,4 +6,4 @@ Application programming interface. A set of [subroutine](https://en.wikipedia.or
 
 Source: Wikipedia.
 
-*See information about [the Media Suite APIs](http://mediasuite.clariah.nl/documentation/apis).*
+*See information about [the Media Suite APIs](/documentation/apis).*

@@ -2,21 +2,20 @@
 title: Login
 ---
 
-Read our post in the FAQ on logging into the Media Suite [here](http://mediasuite.clariah.nl/documentation/faq/who-can-access) for some background information.
+Read our post in the FAQ on logging into the Media Suite [here](/documentation/faq/who-can-access) for some background information.
 
 To log in, follow these steps:
 
-1. Go to the [Media Suite](http://mediasuite.clariah.nl/)
+1. Go to the [Media Suite](/)
 2. Click on the "Log in" button at the top right of the page
 3. In the CLARIAH Digital Research Infrastructure interface, search for the name of your institution, or scroll through the list
 4. Select your institution
 5. Use your institutional credentials to log in, wait until the service connects
-6. You will arrive at the CLARIAH [Media Suite workspace](http://mediasuite.clariah.nl/documentation/workspace)
+6. You will arrive at the CLARIAH [Media Suite workspace](/documentation/workspace)
 
 > See at our CLARIAH YouTube channel the [Screencast: How to log in to the Media Suite](https://www.youtube.com/watch?v=2z0xUblnZwo&index=1&list=PLM8OWdLwjOmcOOikb_vCgB3ouY98PKvge)
->
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/2z0xUblnZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2z0xUblnZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Troubleshooting
 

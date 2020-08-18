@@ -18,4 +18,4 @@ An alignment tool typically takes as input (i) a plain text file with  the speec
 
 This output can be used in a transcription viewer to  jump  immediately to the corresponding position in the audio file by clicking  on a word while viewing a single interview. It can also be used to jump  to positions in multiple audio files by indexing the aligned text (of  multiple interviews) in a search engine.
 
-See more at this blog post about the [CLARIN-Plus workshop on oral history](https://clariah.github.io/mediasuite-blog/blog/2017/05/12/CLARIN-PLUS-workshop-on-Oral-History).
+See more at this blog post about the [CLARIN-Plus workshop on oral history](/blog/2017/05/12/CLARIN-PLUS-workshop-on-Oral-History).

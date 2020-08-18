@@ -15,8 +15,8 @@ The Media Suite is geared towards working with **multimedia** data sets: audio, 
 
 ## Access restrictions
 
-We *bring tools to the data*, because for reasons of copyright or privacy these data can not be brought to the tools by simply downloading them. Read [here](https://mediasuite.clariah.nl/documentation/faq/who-can-access) for more information on access restrictions.
+We *bring tools to the data*, because for reasons of copyright or privacy these data can not be brought to the tools by simply downloading them. Read [here](/documentation/faq/who-can-access) for more information on access restrictions.
 
 ## Collections in the Media Suite
 
-The Media Suite aggregates metadata from audiovisual collections and related multi-media contextual sources that are maintained at cultural heritage and knowledge institutions in The Netherlands. For detailed information about the collections, see [the Media Suite data registry](http://mediasuitedata.clariah.nl/).
+The Media Suite aggregates metadata from audiovisual collections and related multi-media contextual sources that are maintained at cultural heritage and knowledge institutions in The Netherlands. For detailed information about the collections, see [the Media Suite data registry](https://mediasuitedata.clariah.nl/).

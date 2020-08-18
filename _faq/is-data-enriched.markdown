@@ -11,11 +11,11 @@ ASR is a process applied to recorded, digitized audio materials to convert the a
 
 From Version 3 (launched in July 2018), the textual outputs are made available for search and interactive navigation of the audio (radio and television) resources.
 
-> **The Most complete, up-to date automatic speech recognition reports (and other statistics of the NISV collections) are available at the <a href="https://archiefstats.beeldengeluid.nl/speech-recognition" target="_blank">NISV collection statistics website</a>.**
+> **The Most complete, up-to date automatic speech recognition reports (and other statistics of the NISV collections) are available at the [NISV collection statistics website](https://archiefstats.beeldengeluid.nl/speech-recognition).**
 
 Here you will find **dynamic and updated reports** of the progress of ASR as it is being processed (e.g., as in the screenshot below). The numbers correspond to the entire collection of NISV, showing the amount of digitized items with a carrier and, from those, the amount of items that have ASR.
 
-<img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/asr_page_screenshot.jpg?raw=true" width="600px" />
+![](/uploads/asr_page_screenshot.jpg)
 
 **Note**:
 
@@ -29,18 +29,18 @@ Here you will find **dynamic and updated reports** of the progress of ASR as it 
 
 **Other sources of information about ASR processing**:
 
-- Overview: in the release notes, per version, see [Release notes Version 3](http://mediasuite.clariah.nl/documentation/release-notes/v3). 
+- Overview: in the release notes, per version, see [Release notes Version 3](/documentation/release-notes/v3). 
 - Paper on [Speech Recognition and Scholarly research](https://research.utwente.nl/en/publications/speech-recognition-and-scholarly-research-usability-and-sustainab)
-- In the [Collection Inspector tool](http://mediasuite.clariah.nl/documentation/howtos/collection-inspector), adding the Audio-visual collection of Sound and Vision, and inspecting the fields with the label ASR (use the search box).
+- In the [Collection Inspector tool](/documentation/howtos/collection-inspector), adding the Audio-visual collection of Sound and Vision, and inspecting the fields with the label ASR (use the search box).
 
 ### Optical character recognition (OCR)
 
 This type of automatic enrichment is available for these collections:
 
-- [The Newspaper collection of the National Library of The Netherlands](http://mediasuitedata.clariah.nl/dataset/kb-newspapers-test)
-- [The Desmet paper collection provided by the Eye Film Museum](http://mediasuitedata.clariah.nl/dataset/desmet-paper-collection), enriched in collaboration with CREATE (University of Amsterdam)
+- [The Newspaper collection of the National Library of The Netherlands](https://mediasuitedata.clariah.nl/dataset/kb-newspapers-test)
+- [The Desmet paper collection provided by the Eye Film Museum](https://mediasuitedata.clariah.nl/dataset/desmet-paper-collection), enriched in collaboration with CREATE (University of Amsterdam)
 
 
 
-   *(Last update: April 4, 2019)*. *If you have any questions, please [contact us.]( https://mediasuite.clariah.nl/contact )*
+   *(Last update: April 4, 2019)*. *If you have any questions, please [contact us.]( /contact )*
 

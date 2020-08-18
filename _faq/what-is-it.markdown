@@ -3,7 +3,7 @@ title: What is the CLARIAH Media Suite?
 position: 1
 ---
 
-The CLARIAH Media Suite is an application for **doing research with data collections**. It is meant to be used exclusively by **scholars and students at universities and higher education** (e.g., film, television, and other media scholars, oral historians, and political historians). They can log into the Media Suite using their [university credentials](http://mediasuite.clariah.nl/documentation/faq/who-can-access). Others may also find the Media Suite useful however, such as employees of institutes that provide data collections. They receive access rights for their own collections. Or citizen scientists that may be interested in the open access collections that are available.
+The CLARIAH Media Suite is an application for **doing research with data collections**. It is meant to be used exclusively by **scholars and students at universities and higher education** (e.g., film, television, and other media scholars, oral historians, and political historians). They can log into the Media Suite using their [university credentials](/documentation/faq/who-can-access). Others may also find the Media Suite useful however, such as employees of institutes that provide data collections. They receive access rights for their own collections. Or citizen scientists that may be interested in the open access collections that are available.
 
 The CLARIAH Media Suite is one of the applications of the **Dutch infrastructure for Digital Humanities and Social Sciences** developed in the [CLARIAH](https://clariah.nl/) project. It facilitates access to key Dutch media collections with advanced multimedia search and analysis tools.
 
@@ -21,11 +21,11 @@ Via the CLARIAH infrastructure, the Media Suite provides access to data collecti
 
 **Read more on data here**:
 
-- [What collections/data are available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data)
+- [What collections/data are available via the Media Suite?](/documentation/faq/what-data)
 
-- [How does the Media Suite make the data available?](http://mediasuite.clariah.nl/documentation/faq/how-data-is-made-available)
+- [How does the Media Suite make the data available?](/documentation/faq/how-data-is-made-available)
 
-- [Can I play/view all the sources that I find via the Media Suite?](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>)
+- [Can I play/view all the sources that I find via the Media Suite?](</documentation/faq/can-play-view>)
 
 ### Tools
 

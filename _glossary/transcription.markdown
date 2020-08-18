@@ -8,4 +8,4 @@ Transcription is the systematic representation in written form of  language: spe
 
 Automatic speech recognition (ASR) technology is increasingly used to  support or even replace manual transcription. As speech recognition  will produce errors that need to be corrected manually afterward,  specialized tools are developed that try to make the correction work  less tedious.
 
-See more at this blog post about the [CLARIN-Plus workshop on oral history](https://clariah.github.io/mediasuite-blog/blog/2017/05/12/CLARIN-PLUS-workshop-on-Oral-History).
+See more at this blog post about the [CLARIN-Plus workshop on oral history](/blog/2017/05/12/CLARIN-PLUS-workshop-on-Oral-History).

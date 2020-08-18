@@ -29,25 +29,25 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 
 **Development researchers and collaborators**
 
-- [Marijn Koolen](http://marijnkoolen.com/) (part of the development team between 2016-2017, currently developing together with NISV a [scholarly web annotation client](https://clariah.github.io/scholarly-web-annotation-client/) and leading the initiative for scholarly annotations interoperability)
-- [Victor de Boer](http://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)
+- [Marijn Koolen](https://marijnkoolen.com/) (part of the development team between 2016-2017, currently developing together with NISV a [scholarly web annotation client](https://clariah.github.io/scholarly-web-annotation-client/) and leading the initiative for scholarly annotations interoperability)
+- [Victor de Boer](https://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)
 - Oana Inel (2017-2018)
 - Lora Aroyo (2016-2018)
 - [Carlos Martínez Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) (collaborating software engineer from the Netherlands EScience Center, 2016-2018)
 - Werner Helmich (developer at Frontwise, 2017)
-- From September 2018 to February 2019, [Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve te[Resource viewer](http://mediasuite.clariah.nl/documentation/tools/resource-viewer)"
+- From September 2018 to February 2019, [Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve te[Resource viewer](/documentation/tools/resource-viewer)"
 - The Media Suite is developed in alignment with [CLARIAH WP2](https://clariah.nl/en/work-packages/technology) (the work package responsible for the overall infrastructure coordination)
 
 **Scholars involved**
 
-- [Professor Julia Noordegraaf](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html)
+- [Professor Julia Noordegraaf](https://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html)
 - Jasmijn van Gorp
 - Thomas Poell
 - Norah Karrouche
 - Kaspar von Beelen
 - Bernhard Rieder 
 
-**Scholars from the [CLARIAH research pilot projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots)**
+**Scholars from the [CLARIAH research pilot projects](/documentation/faq/what-are-research-pilots)**
 
 - [CrossEWT project](https://clariah.nl/projecten/research-pilots/crossewt): Susan Hoogervorst
 - [Dream project](https://clariah.nl/projecten/research-pilots/dream): Toine Peters and Berrie van der Molen
@@ -62,5 +62,5 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 
 
 
-*(Last edit: January 31, 2019)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
+*(Last edit: January 31, 2019)*. *If you have any questions, please [contact us]( /contact ).*
 

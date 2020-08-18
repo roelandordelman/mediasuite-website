@@ -9,7 +9,7 @@ Only **researchers** that are working at secondary vocational-, higher education
 
 ## Why log in?
 
-In order to be able to use **all features** of the CLARIAH Media Suite, you need to log in. After log in, you will be able to use the workspace to create projects, make annotations, store and share information. Also, you will be able to access data collections that are only available for researchers for reasons of copyright (only research use is permitted) or privacy (see our post on [research data management](https://mediasuite.clariah.nl/documentation/glossary/rdm)).
+In order to be able to use **all features** of the CLARIAH Media Suite, you need to log in. After log in, you will be able to use the workspace to create projects, make annotations, store and share information. Also, you will be able to access data collections that are only available for researchers for reasons of copyright (only research use is permitted) or privacy (see our post on [research data management](/documentation/glossary/rdm)).
 
 > Without logging in, you can still search and browse collections that have **no copyright or privacy restrictions** and are publicly available. However, you cannot use the 'scholarly features' such as creating projects and making annotations.  
 
@@ -27,4 +27,4 @@ Limited access to the Media Suite can occur when:
 
 ***Update April 5, 2019***: in CLARIAH Plus we are working towards facilitating the authentication procedure  via CLARIN-EU, which means that all CLARIN member institutes in Europe will get access.
 
-See also: [How to log in](http://mediasuite.clariah.nl/documentation/howtos/login)
+See also: [How to log in](/documentation/howtos/login)
