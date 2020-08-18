@@ -3,7 +3,7 @@ title: Version 3.1
 date: 2019-01-23 00:00:00 +01:00
 ---
 
-This release includes mostly bug fixing and improvements based on regular testing, and from user input during the [CLARIAH summer school](https://clariah.github.io/mediasuite-blog/blog/2018/10/01/Clariah-Media-Studies-Summer-School-report) and in the [Gitter forum](http://mediasuite.clariah.nl/documentation/forum).
+This release includes mostly bug fixing and improvements based on regular testing, and from user input during the [CLARIAH summer school](/blog/2018/10/01/Clariah-Media-Studies-Summer-School-report) and in the [Gitter forum](/documentation/forum).
 
 ### Overall improvements
 
@@ -30,7 +30,7 @@ This release includes mostly bug fixing and improvements based on regular testin
 ### Data improvements
 
 - NEW collection: “Sound Bites” collection of the Meertens Institute (read more: http://mediasuitedata.clariah.nl/dataset/soundbites).
-- Collection selection and collection information (most pages in CKAN -<http://mediasuite.clariah.nl/data> include more complete information and visualizations)
+- Collection selection and collection information (most pages in CKAN - <https://mediasuite.clariah.nl/data> include more complete information and visualizations)
 
 Improvements to data imports from:
 

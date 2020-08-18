@@ -6,7 +6,7 @@ date: 2020-03-25 00:00:00 +01:00
 ## Enhancements
 
 - Several bug fixes
-- The [collection registry](http://mediasuitedata.clariah.nl/) (CKAN) infrastructure reinstalled to increase stability. 
+- The [collection registry](https://mediasuitedata.clariah.nl/) (CKAN) infrastructure reinstalled to increase stability. 
 
 ## New features
 

@@ -27,4 +27,4 @@ For this release we are proud to announce two major data upgrades:
 
 ## Work in progress
 
-- We are working on our second [Data Story](http://mediasuitedatastories.clariah.nl/), this time on 'factual divergencies' regarding the coronavirus between Dutch official media channels and citizens on social media.
+- We are working on our second [Data Story](https://mediasuitedatastories.clariah.nl/), this time on 'factual divergencies' regarding the coronavirus between Dutch official media channels and citizens on social media.

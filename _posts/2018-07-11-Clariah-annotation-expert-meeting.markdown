@@ -29,7 +29,7 @@ The participants of the expert meeting were the programmers of applications that
 - Marijn Koolen (KNAW Humanities cluster), developer of one of the CLARIAH annotation tools
 - Jaap Blom (The Netherlands Institute for Sound and Vision, CLARIAH), developer of one of the CLARIAH annotation tools
 - Han Slootjes (Max Planck Institute for Psycholinguistics), developer of [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/)
-- John Bell (Dartmouth College), developer of [Waldorf.js & Statler](http://www.johnpbell.com/the-semantic-annotation-tool/) for The Media Ecology project (led by Mark Williams)
+- John Bell (Dartmouth College), developer of [Waldorf.js & Statler](https://www.johnpbell.com/the-semantic-annotation-tool/) for The Media Ecology project (led by Mark Williams)
 - Gaudenz Halter (University of Zurich), developer of [VIAN](https://filmcolors.org/2018/03/08/vian/), an adaptation of ELAN for the Film Colors project, led by Prof. Barbara Flueckiger
 - Joscha Jaeger (Filmic Web), developer of [FrameTrail](https://frametrail.org/)
 - Niels-Oliver Walkowski (Berlin-Brandenburgische Akademie der Wissenschaften), former leader of the DARIAH annotation working group

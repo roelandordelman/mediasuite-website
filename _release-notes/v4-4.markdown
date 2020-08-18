@@ -7,8 +7,8 @@ date: 2019-10-23 00:00:00 +02:00
 
 ## Enhancements
 
-- Small improvements to the Workspace forms and dialog boxes to create user projects and personal collections (see [HowTos](https://mediasuite.clariah.nl/documentation/howtos/user-collections)). 
+- Small improvements to the Workspace forms and dialog boxes to create user projects and personal collections (see [HowTos](/documentation/howtos/user-collections)). 
 
 ## New data
 
-- One part of the oral history collection [Verhalenhuis Belvédère](http://www.belvedererotterdam.nl/) has been made available in the Media Suite thanks to the collaboration between CLARIAH WP5 (especially Norah Karrouche, Max Broekehuizen, Roeland Ordelman) and DANS, from where the Media Suite harvests the metadata. Automatically-generated speech transcripts of 15 interviews were added. (Launched at the [CLARIAH Oral History workshop](https://oralhistory.eu/workshops/clariah2019#collection)).
+- One part of the oral history collection [Verhalenhuis Belvédère](https://www.belvedererotterdam.nl/) has been made available in the Media Suite thanks to the collaboration between CLARIAH WP5 (especially Norah Karrouche, Max Broekehuizen, Roeland Ordelman) and DANS, from where the Media Suite harvests the metadata. Automatically-generated speech transcripts of 15 interviews were added. (Launched at the [CLARIAH Oral History workshop](https://oralhistory.eu/workshops/clariah2019#collection)).

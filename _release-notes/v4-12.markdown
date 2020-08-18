@@ -9,7 +9,7 @@ date: 2020-04-23 00:00:00 +02:00
 
 ## Data improvements
 
-- We added the [Viewer Ratings data](http://mediasuitedata.clariah.nl/dataset/kijk-en-luistercijfers-viewing-figures) information in our data registry.
+- We added the [Viewer Ratings data](https://mediasuitedata.clariah.nl/dataset/kijk-en-luistercijfers-viewing-figures) information in our data registry.
 
 ## Stability improvements
 

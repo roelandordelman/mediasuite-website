@@ -21,6 +21,6 @@ date: 2019-07-31 00:00:00 +02:00
 ## Data improvements
 
 - The workflow for adding metadata dictionaries via CKAN to the collections has been improved. It is now easier for collection owners to add and update metadata dictionaries.
-- In the Jupyter notebooks, and in the [CKAN page for Oral history collections](http://mediasuitedata.clariah.nl/dataset/dans-oral-history) it is possible to query and visualize the oral history aggregated collection by the time period being discussed in the interviews.
+- In the Jupyter notebooks, and in the [CKAN page for Oral history collections](https://mediasuitedata.clariah.nl/dataset/dans-oral-history) it is possible to query and visualize the oral history aggregated collection by the time period being discussed in the interviews.
 - Small improvements in the data (parsing, and cleaning date fields).
 

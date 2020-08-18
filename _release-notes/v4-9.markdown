@@ -31,4 +31,4 @@ Other features:
 
 ## Data improvements
 
-- A new dataset with nature footage from [Open Images](http://natuurbeelden.openbeelden.nl/) was added
+- A new dataset with nature footage from [Open Images](https://natuurbeelden.openbeelden.nl/) was added

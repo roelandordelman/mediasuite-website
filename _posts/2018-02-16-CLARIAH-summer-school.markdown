@@ -19,7 +19,7 @@ introduction: This one-week event organized by CLARIAH (Media studies work packa
 
 This one-week event, organized by CLARIAH (Media studies team) introduces scholars from different domains to the CLARIAH Media Suite and other tools which support the exploration, search and analysis of important _Dutch_ audio-visual collections and their contextual data. 
 
-In the summer school, participants will follow tutorials about using the CLARIAH Media suite in combination with other tools for data analysis and visualization. The Media Suite ([http://mediasuite.clariah.nl/](https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&id=1c03ddfa2c&e=945d5a62a7)) offers a user-friendly research environment with tools that support the research process, following the principles of data transparency. It provides facilities to search, browse, and work with manual & and automatic annotations and enrichments (such as automatic speech recognition). In the summer school, you will work in small groups with scholars (e.g., media scholars and historians), information experts, and other participants on small research projects.
+In the summer school, participants will follow tutorials about using the CLARIAH Media suite in combination with other tools for data analysis and visualization. The Media Suite ([https://mediasuite.clariah.nl/](https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&id=1c03ddfa2c&e=945d5a62a7)) offers a user-friendly research environment with tools that support the research process, following the principles of data transparency. It provides facilities to search, browse, and work with manual & and automatic annotations and enrichments (such as automatic speech recognition). In the summer school, you will work in small groups with scholars (e.g., media scholars and historians), information experts, and other participants on small research projects.
 
 ## Keynote speakers
 
@@ -28,7 +28,7 @@ In the summer school, participants will follow tutorials about using the CLARIAH
 
 [Erik Hoyt](https://commarts.wisc.edu/people/ehoyt) (Keynote speaker, July 2)
 
-Digital media scholar Erik Hoyt, lead developer of [Lantern](http://lantern.mediahist.org), the Media History Digital Library's search platform, and [Arclight](http://search.projectarclight.org), a data analytics and visualization app for the MHDL's collection. He will tell the story of the MHDL and will share some brand new research!
+Digital media scholar Erik Hoyt, lead developer of [Lantern](https://lantern.mediahist.org), the Media History Digital Library's search platform, and [Arclight](https://search.projectarclight.org), a data analytics and visualization app for the MHDL's collection. He will tell the story of the MHDL and will share some brand new research!
 
 ![Dana Mustata](/uploads/2018-02-16_dana_mustata.jpg?raw=true)
 

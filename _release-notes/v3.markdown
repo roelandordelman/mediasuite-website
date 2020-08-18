@@ -16,7 +16,7 @@ A significant portion of the collections of The Netherlands Institute for Sound 
 - Source catalogs (items from the Radio Programma, Weken Nederlandse Radio, and Hoorspelen  collections): more than 40%
 - Television (news and current affairs): about 25%
 
-More information [here](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments).
+More information [here](/documentation/data/automatic-enrichments).
 
 ### EYE Jean Desmet
 
@@ -41,7 +41,7 @@ We added new collections and increased access to resources from collections from
 
 ## Tools improvement
 
-- The Inspector tool has been redesigned and improved with "[metadata dictionaries](http://mediasuite.clariah.nl/documentation/data/metadata-dictionaries)".
+- The Inspector tool has been redesigned and improved with "[metadata dictionaries](/documentation/data/metadata-dictionaries)".
 - We redesigned the Compare tool to work with the newly implemented Saved queries.
 - We fixed a number of bugs in the Search tool. We also added new features that were requested by the main users (researchers) to all tools. These include:
   - Improved faceted search (full term view, filtering, and download)
@@ -63,7 +63,7 @@ We improved significantly the “Workspace,” which first version was launched 
 
 - Users can add personal collections to their work space, these collections can be searched and annotated (ASR for personal collections is forthcoming).
 
-- We added experimental [Jupyter notebooks](http://mediasuite.clariah.nl/documentation/workspace/jupyter-notebooks) to allow python skillful users to work with the Media Suite data
+- We added experimental [Jupyter notebooks](/documentation/workspace/jupyter-notebooks) to allow python skillful users to work with the Media Suite data
 
 ## And more...
 

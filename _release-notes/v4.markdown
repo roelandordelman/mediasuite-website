@@ -11,7 +11,7 @@ date: 2019-04-03 00:00:00 +02:00
 
 ## Data enhancements
 
-- The [collection pages](http://mediasuitedata.clariah.nl/) have been enriched with visualizations, and the collection descriptions have been updated. 
+- The [collection pages](https://mediasuitedata.clariah.nl/) have been enriched with visualizations, and the collection descriptions have been updated. 
 - It is possible to access the collection pages from the Collection selector, Search, and Inspect tools.
 - User-friendly labels have been added to The Netherlands Institute for Sound and Vision (users can now use the user-friendly labels, but also are able to see the original name of the field when hovering the mouse over the labels).
 - In the resource viewer, it is possible to see and navigate through the curated segments from The Netherlands Institute for Sound and Vision collection (curated segments are parts of a program which have been selected and annotated more in detail by the archivists).
