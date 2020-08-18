@@ -37,7 +37,7 @@ collections:
     output: true
   labo-help:
     title: Labo help 
-    output: false
+    output: true
 defaults:
 - scope:
     path: ''
