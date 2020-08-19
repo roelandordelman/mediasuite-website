@@ -2,8 +2,8 @@
 title: Import workspace
 position: 1
 header: 'Important notice for active users:'
-link_txt: Import your workspace
-link_url: "/workspace/projects?import_workspace=1"
+link_txt: Contact us
+link_url: "/contact"
 ---
 
-As of today, we've switched to a new login system. This requires you to import your old workspace. Please visit the import page before you begin
+We switched to a new login system and the procedure to recover your old workspace data has expired. If you didn’t have the chance to recover your data yourself, please contact us so that we can restore the data manually
