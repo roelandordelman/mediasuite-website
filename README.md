@@ -43,7 +43,7 @@ Just about any traditional web hosting provider will let you upload files to the
 
 ## Acknowledgments
 
-* [Siteleaf](https://www.siteleaf.com/), an excellent Content Management System for Jekyll powered websites.
+* [Siteleaf](https://www.siteleaf.com/?via=frank), an excellent Content Management System for Jekyll powered websites.
 
 ## License
 
