@@ -137,7 +137,8 @@ article.tutorial h5 {
 }
 
 article.tutorial img {
+	display: block;
 	border: 1px solid #000;
-	margin: 1.5rem auto;
-	max-width: 640px;
+	margin: 2rem auto;
+	max-width: 800px;
 }
