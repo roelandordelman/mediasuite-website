@@ -104,9 +104,6 @@ defaults:
     vimeo_url: 
     other_urls: []
 version: v5.0
-email: 
-description: 
-baseurl: 
 url: https://mediasuite.clariah.nl
 twitter_username: mediasuite_nl
 markdown: kramdown
