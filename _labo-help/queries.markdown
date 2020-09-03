@@ -1,5 +1,7 @@
 ---
+title: Queries
 ---
+
 Saved queries
 ---
 

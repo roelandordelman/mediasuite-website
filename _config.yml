@@ -5,7 +5,6 @@ collections:
   posts:
     title: Blog
     output: true
-    permalink: "/blog/:year/:month/:day/:title"
   carousel:
     title: Carousel
     output: false
@@ -25,6 +24,9 @@ collections:
     title: HowTos
     output: true
     permalink: "/documentation/howtos/:name"
+  labo-help:
+    title: Labo help
+    output: true
   learn:
     title: Learn
     output: true
@@ -35,9 +37,6 @@ collections:
     permalink: "/documentation/release-notes/:name"
   uploads:
     title: Uploads
-    output: true
-  labo-help:
-    title: Labo help 
     output: true
 defaults:
 - scope:
@@ -95,7 +94,9 @@ defaults:
     layout: tutorial
     menu: learn
     author: 
-    media_type: ["video","rich media"]
+    media_type:
+    - video
+    - rich media
     functionalities: []
     collections: []
     disciplines: []
