@@ -7,4 +7,4 @@ link_url: http://mediasuitedatastories.clariah.nl
 link_target: _datastories
 ---
 
-Media Suite Data Stories: narratives interspersed with visualisations, gleaned from facts and figures extracted from the multifaceted richness of large multimedia collections in the CLARIAH infrastructure, as part of a scholarly investigation, a datathon, or assembled by archivists inspired by events in the news. 
+Narratives interspersed with visualisations gleaned from facts and figures extracted from the multifaceted richness of large multimedia collections in the CLARIAH infrastructure, as part of a scholarly investigation, a datathon, or assembled by archivists inspired by events in the news. Have a look!
