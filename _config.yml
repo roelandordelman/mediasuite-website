@@ -5,7 +5,6 @@ collections:
   posts:
     title: Blog
     output: true
-    permalink: "/blog/:year/:month/:day/:title"
   carousel:
     title: Carousel
     output: false
@@ -25,6 +24,9 @@ collections:
     title: HowTos
     output: true
     permalink: "/documentation/howtos/:name"
+  labo-help:
+    title: Labo help
+    output: true
   learn:
     title: Learn
     output: true
@@ -35,9 +37,6 @@ collections:
     permalink: "/documentation/release-notes/:name"
   uploads:
     title: Uploads
-    output: true
-  labo-help:
-    title: Labo help 
     output: true
 defaults:
 - scope:
@@ -57,6 +56,7 @@ defaults:
     header: 
     link_txt: 
     link_url: 
+    link_target: 
 - scope:
     path: ''
     type: faq
@@ -94,6 +94,7 @@ defaults:
     layout: tutorial
     menu: learn
     author: 
+    media_type: 
     functionalities: []
     collections: []
     disciplines: []
@@ -103,6 +104,7 @@ defaults:
     language: 
     vimeo_url: 
     other_urls: []
+    pdf_file: 
 version: v5.0
 url: https://mediasuite.clariah.nl
 twitter_username: mediasuite_nl

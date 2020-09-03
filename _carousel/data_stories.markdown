@@ -1,7 +1,7 @@
 ---
 title: Import workspace
 position: 1
-header: 'Media Suite Data Stories'
+header: Media Suite Data Stories
 link_txt: Data Stories
 link_target: _datastories
 link_url: http://mediasuitedatastories.clariah.nl

@@ -1,5 +1,7 @@
 ---
+title: User Project Details
 ---
+
 User project details
 ---
 
