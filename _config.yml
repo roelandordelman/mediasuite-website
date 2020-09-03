@@ -94,7 +94,7 @@ defaults:
     layout: tutorial
     menu: learn
     author: 
-    media_type:
+    media_type: 
     functionalities: []
     collections: []
     disciplines: []
