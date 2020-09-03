@@ -95,8 +95,6 @@ defaults:
     menu: learn
     author: 
     media_type:
-    - video
-    - rich media
     functionalities: []
     collections: []
     disciplines: []
