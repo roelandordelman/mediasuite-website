@@ -57,6 +57,7 @@ defaults:
     header: 
     link_txt: 
     link_url: 
+    link_target: 
 - scope:
     path: ''
     type: faq
@@ -94,6 +95,7 @@ defaults:
     layout: tutorial
     menu: learn
     author: 
+    media_type: ["video","rich media"]
     functionalities: []
     collections: []
     disciplines: []
@@ -103,6 +105,7 @@ defaults:
     language: 
     vimeo_url: 
     other_urls: []
+    pdf_file: 
 version: v5.0
 url: https://mediasuite.clariah.nl
 twitter_username: mediasuite_nl
