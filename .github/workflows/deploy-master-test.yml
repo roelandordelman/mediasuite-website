@@ -12,4 +12,4 @@ jobs:
     - name: install with ansible
       run: |
         cd /opt/git/rd_infra/scripts/ansible/
-        ansible-playbook mediasuite-website.yml
+        ansible-playbook mediasuite-website-build-test.yml

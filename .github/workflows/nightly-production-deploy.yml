@@ -1,0 +1,15 @@
+name: Deploy Master branch
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 1 * * *'
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+    - name: deploy to production with ansible
+      run: |
+        cd /opt/git/rd_infra/scripts/ansible/
+        ansible-playbook mediasuite-website-production.yml
