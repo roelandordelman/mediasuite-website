@@ -1,7 +1,8 @@
 ---
 title: What is Media Suite
-position: 2
+position: 3
 link_txt: Read more
+link_target: _self
 link_url: "/documentation/faq/what-is-it"
 ---
 

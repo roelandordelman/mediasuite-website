@@ -1,8 +1,9 @@
 ---
 title: Import workspace
-position: 1
+position: 2
 header: 'Important notice for active users:'
 link_txt: Contact us
+link_target: _self
 link_url: "/contact"
 ---
 
