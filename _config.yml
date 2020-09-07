@@ -49,6 +49,7 @@ defaults:
     type: posts
   values:
     layout: blog
+    permalink: "/blog/:year/:month/:day/:title"
 - scope:
     path: ''
     type: carousel
