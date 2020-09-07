@@ -49,6 +49,7 @@ defaults:
     type: posts
   values:
     layout: blog
+    menu: blog
     permalink: "/blog/:year/:month/:day/:title"
 - scope:
     path: ''
