@@ -2,10 +2,13 @@
 title: Release notes
 permalink: "/documentation/release-notes"
 position: 9
-layout: release-notes
 menu: help
+layout: release-notes
 ---
 
+- [Version 5.2 (03-09-2020)](/documentation/release-notes/v5-2)
+- [Version 5.1 (20-08-2020)](/documentation/release-notes/v5-1)
+- [Version 5.0 (31-07-2020)](/documentation/release-notes/v5)
 - [Version 4.14 (03-06-2020)](/documentation/release-notes/v4-14)
 - [Version 4.12 (22-04-2020)](/documentation/release-notes/v4-12)
 - [Version 4.11 (03-04-2020)](/documentation/release-notes/v4-11)
